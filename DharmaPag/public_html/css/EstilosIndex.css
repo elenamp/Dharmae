@@ -9,11 +9,13 @@ and open the template in the editor.
 */
 /*---------------ESTILOS GENERALES----------*/
 body{
-    background:aliceblue;
+/*    background:aliceblue;*/
     font-family:Arial, Helvetica, Sans-serif;
     width:90%;
     margin:auto;
     clear:both;
+    background:#92BCE1;
+
     
 }
 a{
@@ -61,7 +63,7 @@ box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*
    
     float:right;
     padding-top:50px; 
-    margin:5px;
+    margin-right: 150px;
     height: 100px;
     width: 500px;
 }
@@ -124,7 +126,9 @@ box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*
     height: auto;
     float:left;
     background: #21619D;
-    margin:20px;
+    margin-top: 20px;
+    margin-left: 55px;
+    margin-bottom: 20px;
     border-radius: 5px;/*esta propiedad bordea la esquinas*/
         -moz-border-radius: 5px;
         -webkit-border-radius: 5px;
