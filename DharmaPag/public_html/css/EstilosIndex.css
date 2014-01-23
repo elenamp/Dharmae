@@ -88,11 +88,11 @@ box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*
     text-decoration: none;
 }
 /*-----SLIDER------*/
-#slider{
+#sliderContenedor{
   width: 100%;
     float:left;
     text-align: center;
-    height: 20%;
+    height: 60%;
     margin-top: 20px;
     background:#002C67; 
     border-radius: 5px;/*esta propiedad bordea la esquinas*/
@@ -102,6 +102,11 @@ box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*
 box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*/
  -moz-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/;
  -webkit-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/; 
+}
+#slider{
+	padding:2%;
+	width:96%;
+	height:80%;
 }
 /*-------Cuerpo------*/
 #cuerpo{
