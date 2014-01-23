@@ -7,4 +7,6 @@ Viernes 17 Enero -> Versión beta y distribución de tareas:
 	- Elena: diferentes práginas de información.
 	- Carmen: quiénes somos ¿y contacto?
 	
+Jueves 23 Enero -> Página principal terminada. Fijamos el estilo que queremos del slider.
+	
 	Para un futuro: slider, menú desplegable
