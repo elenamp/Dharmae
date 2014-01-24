@@ -10,3 +10,10 @@ Viernes 17 Enero -> Versión beta y distribución de tareas:
 Jueves 23 Enero -> Página principal terminada. Fijamos el estilo que queremos del slider.
 	
 	Para un futuro: slider, menú desplegable
+	
+Viernes 24 Enero -> Slider visto bueno. Decisión de crear 3 css para adaptarlo a 3 tamaños diferentes de pantalla. Distribución de tareas.
+	- Elena: desplegable del menú
+	- Luis: continuar con estilos página principal. Añadir terapias que faltan (enfermería y facioterapia vietnamita)
+	- Carmen: slider modificar
+	
+Enviamos un email a Yessy para solicitarle información que falta. Está en Roma, no esperamos contestación inmediata. 
