@@ -88,20 +88,16 @@ box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*
     text-decoration: none;
 }
 /*-----SLIDER------*/
-#slider{
+#sliderContenedor{
   width: 100%;
     float:left;
     text-align: center;
-    height: 20%;
+    height: 60%;
     margin-top: 20px;
-    background:#002C67; 
-    border-radius: 5px;/*esta propiedad bordea la esquinas*/
-        -moz-border-radius: 5px;
-        -webkit-border-radius: 5px;
-/*sombra de la caja header*/
-box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*/
- -moz-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/;
- -webkit-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/; 
+}
+#slider{
+	width:100%;
+	height:84%;
 }
 /*-------Cuerpo------*/
 #cuerpo{
