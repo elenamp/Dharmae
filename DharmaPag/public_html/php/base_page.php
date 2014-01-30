@@ -12,8 +12,7 @@
             <?php cabecera();?>   
         </header>
         <div id="cuerpo"> 
-            
-                        
+                      
         </div>
         
         <footer>

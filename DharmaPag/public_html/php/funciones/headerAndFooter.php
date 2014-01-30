@@ -2,7 +2,7 @@
 function cabecera(){
 	?>
     <div id="cabecera">
-        <div id="logotipo"><img src="img/logo.jpg"></div>
+        <div id="logotipo"><img src="../img/logo.jpg"></div>
         <div id="menu">
         <nav>
             <ul>
