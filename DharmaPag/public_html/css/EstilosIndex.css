@@ -74,11 +74,12 @@ nav li{
     font-family: merienda;
     margin-left: 15px;
     position:relative;
+    list-style: none;
 }
 nav li a{
     color:#92BCE1;
     font-size: 18px;
-    padding: 10px;
+    padding: 4px;
     border-radius: 2px;
     -moz-border-radius: 2px; /*estas lineas son para que se vea en navegadores antiguos*/
     -webkit-border-radius: 2px;
@@ -88,6 +89,8 @@ nav li a:hover{/*estas lineas crean el efecto */
     color:#fff;
     background: #21619D;
     text-decoration: none;
+    
+    
 }
 
 nav li li a{
@@ -271,13 +274,15 @@ footer p{
         float:left;
         margin-right: 20px;
         margin-left: -20px;
+        margin-top:15px;
         padding-top:5px; 
         height: 100%;
         width: 40%;
     }    
     nav li{        
     display:list-item;
-    font-family: merienda;
+    padding-top:2px;
+   
     
 }
     nav li a{font-size: 18px;}
@@ -287,10 +292,10 @@ footer p{
     footer{background:red;}
 }
 /***********************Mobile Portrait 320px**************************/
-@media only screen and (max-width:317px){ 
+@media only screen and (max-width:420px){ 
 
     footer{background:aqua;height: auto;}
     footer p{ color:#92BCE1;margin:10px;}
-    #contenido1 #foto img{height: 20%;}
+    #contenido1 #foto img{height: 25%;}
      nav li{display:list-item;padding-top:0px;}
 }
