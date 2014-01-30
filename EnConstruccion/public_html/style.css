@@ -10,5 +10,7 @@ and open the template in the editor.
 body{
     background-image: url(nursery.png);
     background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #92BCE1;
     
 }
