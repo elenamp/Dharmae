@@ -7,7 +7,10 @@
             <file>file:/C:/wamp/www/DharmaPag/public_html/css/EstilosIndex.css</file>
         </group>
         <group name="Diseño Interfaces"/>
-        <group/>
         <group name="Programacion de Servicios y Procesos"/>
+        <group>
+            <file>file:/C:/Users/LuisC/Documents/GitHub/Dharmae/DharmaPag/public_html/css/EstilosIndex.css</file>
+            <file>file:/C:/Users/LuisC/Documents/GitHub/Dharmae/DharmaPag/public_html/index.html</file>
+        </group>
     </open-files>
 </project-private>

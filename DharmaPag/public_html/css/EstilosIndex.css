@@ -74,11 +74,12 @@ nav li{
     font-family: merienda;
     margin-left: 15px;
     position:relative;
+    list-style: none;
 }
 nav li a{
     color:#92BCE1;
     font-size: 18px;
-    padding: 10px;
+    padding: 4px;
     border-radius: 2px;
     -moz-border-radius: 2px; /*estas lineas son para que se vea en navegadores antiguos*/
     -webkit-border-radius: 2px;
@@ -88,6 +89,8 @@ nav li a:hover{/*estas lineas crean el efecto */
     color:#fff;
     background: #21619D;
     text-decoration: none;
+    
+    
 }
 
 nav li li a{
@@ -217,10 +220,8 @@ footer p{
 @media only screen and (min-width: 768px) and (max-width:959px){
 
     #menu{
-
         float:left;
-        padding-top:40px; 
-       
+        padding-top:40px;       
         height: 40%;
         width:60%;
     }
@@ -230,84 +231,71 @@ footer p{
     margin-left: 2px;
     position:relative;
 }
-    nav li a{        
-    font-size: 16px;
-    
-    }
-    
-    #contenido1{
-        height: 250px;
-    }
-    #contenido1 #foto img{
-        height: 50%; 
-    }
-    footer{
-        background:darkorange;    
-    }
-
+    nav li a{font-size: 16px;}    
+    #contenido1{height: 250px;}
+    #contenido1 #foto img{height: 50%;}
+    footer{background:darkorange;}
 }
 /**********************Mobile Portrait***************************/
-@media only screen and (max-width: 767px) {
-    footer{
-        background:greenyellow;    
+@media only screen and (max-width: 480px) {
+    header{width: 100%;height: auto;}
+    #logotipo{height:150px;width: 94%;}
+    #logotipo img{
+        height: 150px;
+        width: 100%;
+        float:left;
     }
+    #menu{        
+        float:left;
+        margin-right: 0px;
+        margin-left: -15px;
+        padding-top:0px; 
+        height: auto;
+        width: 100%;
+    }    
+    nav li{        
+    display:inline;
+    
+    margin: 0px;
+    
+}
+    nav li a{font-size: 14px;}
+    #Contenido1{
+    width: 80%;    
+    margin-left: 12%;    
+}
+    #Contenido1 #descripcion{font-size: 18px; }
+    #contenido1 #foto img{height: 40%;}
+    footer{background:greenyellow;height: auto;}
 }
 /**********************Mobile Landscape(tumbao)***************************/
 @media only screen and (min-width: 480px) and (max-width:767px){
-
-    #menu{
-        
+    #menu{        
         float:left;
-        margin-right: 5px;
+        margin-right: 20px;
+        margin-left: -20px;
+        margin-top:15px;
         padding-top:5px; 
         height: 100%;
-        width: 30%;
-    }
+        width: 40%;
+    }    
+    nav li{        
+    display:list-item;
+    padding-top:2px;
+   
     
-    nav li{
-        
-    display:inline;
-    font-family: merienda;
-    margin-left: 5px;
-    position:relative;
 }
-    nav li a{        
-    font-size: 18px;
-    
-    }
-  
-
-    #contenido1{
-        height: 250px;
-    }
-    #Contenido1 #descripcion{
-
-        font-size: 10px;
-    }
-    #contenido1 #foto img{
-        height: 40%; 
-    }
-
-    footer{
-        background:red;   
-    }
+    nav li a{font-size: 18px;}
+    #contenido1{height: 250px;}
+    #Contenido1 #descripcion{font-size: 10px; }
+    #contenido1 #foto img{height: 40%;}
+    footer{background:red;}
 }
-
-
 /***********************Mobile Portrait 320px**************************/
-@media only screen and (max-width:317px){ 
+@media only screen and (max-width:420px){ 
 
-    footer{
-        background:aqua;
-
-
-    }
-    footer p{
-        color:#92BCE1;
-        margin:10px;
-    }
-
-
-
-
+    footer{background:aqua;height: auto;}
+    footer p{ color:#92BCE1;margin:10px;}
+    #contenido1 #foto img{height: 25%;}
+     nav li{display:list-item;padding-top:0px;}
 }
