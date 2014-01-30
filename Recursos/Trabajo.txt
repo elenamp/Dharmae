@@ -20,3 +20,4 @@ Enviamos un email a Yessy para solicitarle información que falta. Está en Roma
 
 Miércoles 29 Enero -> Yessy visto bueno de la beta y envío de información que faltaba.
 Alt a imágenes añadidos e imagen de página en construcción creada.
+Comenzada la adaptación a diferentes tamaños de pantalla y añadido menú desplegable y slider
