@@ -11,10 +11,13 @@
         <header>
             <?php cabecera();?>   
         </header>
-        <div id="tituloterapia">
-            
-        </div>
+        
         <div id="cuerpo"> 
+            <div id="tituloterapia">
+            REIKI
+            </div>
+            <div id="descripcionterapia">
+                
             <p>Partimos del concepto de que el ser humano es todo energía. 
                 El Reiki es un conocido sistema de relajación  y control del dolor, 
                 cada vez más aceptado  y utilizado en nuestra sociedad.  
@@ -28,9 +31,10 @@
                 La unión de todas estas disciplinas puestas al cuidado de nuestro cuerpo y de nuestra salud, 
                 dan lugar a un sistema curativo eficaz y rápido, que todo aquel que lo prueba le resulta 
                 altamente satisfactorio. </p>
-                      
-        </div>
-        
+                   
+            </div>
+            <div id="SliderTerapias">SLIDER DE FOTOS</div>
+         </div>
         <footer>
             <?php pieDePagina();?>
         </footer>
