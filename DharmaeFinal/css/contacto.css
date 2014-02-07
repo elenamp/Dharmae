@@ -1,0 +1,69 @@
+.dos_column_right_big{
+	background-color:green;
+	width:67%;
+	float:left;
+	text-align:left;
+}
+
+.dos_column_left_small{
+	background-color:yellow;
+	width:33%;
+	left:67%;
+	float:left;	
+}
+
+#formulario_contacto{
+	background-color:orange;
+	width:70%;
+	left:15%;
+	position:relative;
+	padding:2%;
+}
+
+#formulario_contacto .inputText {
+	width:50%;
+	height:24px;
+	border:1px solid #cccccc;
+	padding:7px;
+}
+
+#formulario_contacto .inputTextarea {
+	width:80%;
+	height:250px;
+	border:1px solid #cccccc;
+	padding:7px;
+	resize: none; 
+}
+
+#formulario_contacto label {
+	text-align:left;
+	margin-right: 0.5em;
+	color:#262626;
+	font-size:13px;
+	background-color:pink;
+}
+#formulario_contacto label span, .inf_requerida span{
+	color:red;
+}
+
+p {
+	color:orange;
+	font-size:12px;
+	font-family: Helvetica, Arial, Tahoma, sans-serif;
+	line-height:22px;
+}
+
+.inf_requerida {
+	font-size:11px;
+	margin:0 0 10px 0;
+	color:yellow;
+}
+
+.contact_form .inputText.error_class {
+	border:1px solid #ef716d;
+}
+.contact_form .inputTextarea.error_class {
+	border:1px solid #ef716d;
+}
+
+

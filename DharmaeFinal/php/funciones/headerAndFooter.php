@@ -6,7 +6,7 @@ function cabecera(){
         <div id="menu">
         <nav>
             <ul>
-                <li><a href="index.html">Inicio</a></li>                        
+                <li><a href="inicio.php">Inicio</a></li>                        
                 <li><a href="#">Desplegable</a>
                     <ul>
                         <li><a href="#">Pares Magn&eacute;ticos</a></li>                        
@@ -22,7 +22,7 @@ function cabecera(){
                         <li><a href="#">Facioterapia Vietnamita</a></li>
                     </ul>
                 </li>
-                <li><a href="Contacto">Contacto</a></li>
+                <li><a href="contacto.php">Contacto</a></li>
                 <li><a href="Quienes">Quienes Somos</a></li>
             </ul>
         </nav> 
