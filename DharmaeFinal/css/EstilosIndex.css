@@ -147,6 +147,7 @@ nav li ul li{
     width: 100%;
     height: auto;
     float:left;
+    margin-top: 30px;
     text-align: center;
     background:#002C67; 
     border-radius: 5px;/*esta propiedad bordea la esquinas*/
@@ -215,6 +216,23 @@ footer p{
 
 
 /*************************************************MEDIA QUERYS************************************/
+@media only screen and (min-width: 1380px){
+    #Contenido1{
+    width: 25%;
+    height: 40%;
+    float:left;
+    background: #21619D;
+    margin-top: 20px;
+    margin-left: 6%;
+    margin-bottom: 20px;
+    border-radius: 5px;/*esta propiedad bordea la esquinas*/
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    }
+    #contenido1 #foto img{height: 60%;}
+
+ footer{background:pink;}   
+}
 
 /**********************Tablet Portrait***************************/
 @media only screen and (min-width: 768px) and (max-width:959px){
@@ -299,3 +317,4 @@ footer p{
     #contenido1 #foto img{height: 25%;}
      nav li{display:list-item;padding-top:0px;}
 }
+/*-----------------------------------ESTILOS TERAPIAS----------------------*/
