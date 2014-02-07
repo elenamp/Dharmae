@@ -53,24 +53,27 @@
 			<div class="dos_column_right_big">
 				<!-- FORMULARIO DE CONTACTO -->	
 				<form action="" id="formulario_contacto" method="post">
-					<p>
-						<label for="nombre">Nombre <span>*</span></label><br/>
-						<input class="inputText" type="text" name="txtNombre" value="<?=mostrarValorCampo('txtNombre'); ?>"/>
-					</p>
-					<p>
-						<label for="email">E-mail <span>*</span></label><br/>
-						<input class="inputText" type="text" name="txtEmail" value="<?=mostrarValorCampo('txtEmail'); ?>"/>
-					</p>
-					<p>
-						<label for="mensaje">Mensaje <span>*</span></label><br/>
-						<textarea class="inputTextarea" cols="88" rows="6" name="txtMensaje"><?php mostrarValorCampo('txtMensaje'); ?></textarea>
-					</p>
+					<fieldset>
+					    <legend>Formulario de contacto</legend>
+						<p>
+							<label for="nombre">Nombre <span>*</span></label><br/>
+							<input class="inputText" type="text" name="txtNombre" value="<?=mostrarValorCampo('txtNombre'); ?>"/>
+						</p>
+						<p>
+							<label for="email">E-mail <span>*</span></label><br/>
+							<input class="inputText" type="text" name="txtEmail" value="<?=mostrarValorCampo('txtEmail'); ?>"/>
+						</p>
+						<p>
+							<label for="mensaje">Mensaje <span>*</span></label><br/>
+							<textarea class="inputTextarea" cols="88" rows="6" name="txtMensaje"><?php mostrarValorCampo('txtMensaje'); ?></textarea>
+						</p>
 
-					<p class="inf_requerida"><span>*</span> Campos requeridos</p>
-					<!--<p class="submit">-->
-						<input type="submit" name="btnEnviar" value="Enviar"/>
-						<!--<a href="javascript:void(0);" class="button white" onclick="$('.contact_form').submit();">Enviar</a>-->
-					<!--</p>-->
+						<p class="inf_requerida"><span>*</span> Campos requeridos</p>
+						<!--<p class="submit">-->
+							<input class="boton" type="submit" name="btnEnviar" value="Enviar"/>
+							<!--<a href="javascript:void(0);" class="button white" onclick="$('.contact_form').submit();">Enviar</a>-->
+						<!--</p>-->
+					</fieldset>
 				</form>
 				<!-- FIN FORMULARIO DE CONTACTO --> 
 			</div>          

@@ -1,5 +1,4 @@
 .dos_column_right_big{
-	background-color:green;
 	width:67%;
 	float:left;
 	text-align:left;
@@ -12,51 +11,89 @@
 	float:left;	
 }
 
-#formulario_contacto{
-	background-color:orange;
+form#formulario_contacto{
+	margin:40px 0px 40px 0px;
 	width:70%;
 	left:15%;
 	position:relative;
-	padding:2%;
+	padding:10px;
+	background-color:#21619D;
+	box-shadow: 3px 3px 3px #92BCE1;
+	border:3px solid white;
+	border-radius: 10px;
 }
 
-#formulario_contacto .inputText {
+form#formulario_contacto fieldset{
+	border:3px solid #002C67;
+	background-color:#92BCE1;
+	border-radius: 20px;
+	padding:0px 10px 10px 10px;
+}
+
+form#formulario_contacto legend{
+	background-color:#92BCE1;
+	border:3px solid #002C67;
+	padding: 5px 10px 5px 10px;
+	border-radius: 10px;
+	text-align:right;
+	text-shadow: 1px 1px 1px #696969;
+	font-weight:bold;
+	
+}
+
+form#formulario_contacto .inputText {
 	width:50%;
 	height:24px;
 	border:1px solid #cccccc;
 	padding:7px;
+	border:2px solid #002C67; 
 }
 
-#formulario_contacto .inputTextarea {
+form#formulario_contacto .inputTextarea {
 	width:90%;
 	height:250px;
 	border:1px solid #cccccc;
 	padding:7px;
 	resize: none; 
+	border:2px solid #002C67;
 }
 
-#formulario_contacto label {
-	text-align:left;
-	margin-right: 0.5em;
-	color:#262626;
-	font-size:13px;
-	background-color:pink;
+form#formulario_contacto label {
+	margin: 5px 0px 0px 0px;
+	font-size:14px;
+	line-height:22px;
+	font-weight:bold;
+	color:#002C67;
+	
 }
-#formulario_contacto label span, .inf_requerida span{
+form#formulario_contacto label span, .inf_requerida span{
 	color:red;
 }
 
-p {
-	color:orange;
+form#formulario_contacto .boton{
+	margin: 2px 20px 20px 2px;
+	font-size:12px;
+    font-weight:bold;
+    color:white;
+    background:#638cb5;
+    width:80px;
+    height:21px;
+    border-radius: 5px;
+	float:right;
+}
+
+/*p {
+	color:#002C67;
 	font-size:12px;
 	font-family: Helvetica, Arial, Tahoma, sans-serif;
 	line-height:22px;
-}
+	font-weight:bold;
+}*/
 
-.inf_requerida {
+form#formulario_contacto .inf_requerida {
 	font-size:11px;
 	margin:0 0 10px 0;
-	color:yellow;
+	color:#002C67;
 }
 
 .contact_form .inputText.error_class {
