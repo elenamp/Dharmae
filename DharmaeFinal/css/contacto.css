@@ -49,6 +49,14 @@ form#formulario_contacto .inputText {
 	border:2px solid #002C67; 
 }
 
+form#formulario_contacto .inputText:focus:invalid, form#formulario_contacto .inputTextarea:focus:invalid{
+	border:3px solid red; 
+}
+
+form#formulario_contacto .inputText:valid, form#formulario_contacto .inputTextarea:valid{
+	border:3px solid green; 
+}
+
 form#formulario_contacto .inputTextarea {
 	width:90%;
 	height:250px;
@@ -82,25 +90,16 @@ form#formulario_contacto .boton{
 	float:right;
 }
 
-/*p {
-	color:#002C67;
-	font-size:12px;
-	font-family: Helvetica, Arial, Tahoma, sans-serif;
-	line-height:22px;
-	font-weight:bold;
-}*/
-
 form#formulario_contacto .inf_requerida {
 	font-size:11px;
 	margin:0 0 10px 0;
 	color:#002C67;
+	font-style:italic;
 }
 
-.contact_form .inputText.error_class {
-	border:1px solid #ef716d;
-}
-.contact_form .inputTextarea.error_class {
-	border:1px solid #ef716d;
+/*Validación formulario*/
+input:required {
+	border: 13px solid yellow;
 }
 
 

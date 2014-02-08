@@ -2,26 +2,19 @@
 	//Si hemos pulsado el botón de enviar
 	if(isset($_POST['btnEnviar'])){
 		//Si todos los campos requeridos han sido rellenos
-		
-		/***************** COMPROBAR EMAIL ****************/
 		if($_POST['txtNombre']!="" && $_POST['txtEmail']!="" && $_POST['txtMensaje']!=""){
 			$para = "caherfe@hotmail.com";
-			$titulo = 'Título';
+			$titulo = 'Mensaje de página Dharmae';
 			$mensaje = $_POST['txtMensaje'];
 			$cabeceras = 'From: =?UTF-8?B?'.base64_encode($_POST['txtNombre']).'?= <'.$_POST['txtEmail'].'>' . "\r\n" .
 				'Reply-To: '.$_POST['txtEmail'].'' . "\r\n" .
 				'X-Mailer: PHP/' . phpversion() .
 				'Content-type: text/plain; charset=UTF-8' . "\r\n";
 
-			if( mail($para, '=?UTF-8?B?'.base64_encode($titulo).'?=', $mensaje, $cabeceras) ) //mete la funcion mail() en un if para comprobarla. si algo falla, nos devolverá "error". 
-			{ 
-			  echo 'Su Presupuesto fue enviado correctamente, nos pondremos en contacto con usted lo antes posible.';  
-			} 
+			if( mail($para, '=?UTF-8?B?'.base64_encode($titulo).'?=', $mensaje, $cabeceras) ) 
+				header("Location: exito.php");
 			else 
-			{ 
-			  echo "error"; 
-			}  
-
+				header("Location: error.php");
 		}
 		else
 			echo "no hay";
@@ -57,15 +50,15 @@
 					    <legend>Formulario de contacto</legend>
 						<p>
 							<label for="nombre">Nombre <span>*</span></label><br/>
-							<input class="inputText" type="text" name="txtNombre" value="<?=mostrarValorCampo('txtNombre'); ?>"/>
+							<input class="inputText" type="text" name="txtNombre" value="<?=mostrarValorCampo('txtNombre'); ?>" required title="Se necesita un nombre" autofocus/>
 						</p>
 						<p>
 							<label for="email">E-mail <span>*</span></label><br/>
-							<input class="inputText" type="text" name="txtEmail" value="<?=mostrarValorCampo('txtEmail'); ?>"/>
+							<input class="inputText" type="text" name="txtEmail" value="<?=mostrarValorCampo('txtEmail'); ?>" required pattern="[^@]+@[^@]+\.[a-zA-Z]{2,6}" title=" mail@ejemplo.com"/>
 						</p>
 						<p>
 							<label for="mensaje">Mensaje <span>*</span></label><br/>
-							<textarea class="inputTextarea" cols="88" rows="6" name="txtMensaje"><?php mostrarValorCampo('txtMensaje'); ?></textarea>
+							<textarea class="inputTextarea" cols="88" rows="6" name="txtMensaje" required title="Se necesita un mensaje"><?php mostrarValorCampo('txtMensaje'); ?></textarea>
 						</p>
 
 						<p class="inf_requerida"><span>*</span> Campos requeridos</p>
