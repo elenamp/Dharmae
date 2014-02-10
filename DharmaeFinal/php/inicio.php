@@ -153,7 +153,7 @@
             
             <div id="Contenido1">
                 <div id="titulo"><p>Reiki</p></div>
-                <div id="foto"><a href=""><img src="../img/reiki.jpg" alt="Reiki" title="Reiki"></a></div>
+                <div id="foto"><a href="Reiki.php"><img src="../img/reiki.jpg" alt="Reiki" title="Reiki"></a></div>
                 <div id="descripcion">Devuelvele a tu cuerpo la energía que le robas dia a dia .</div>
                 <p><a href="">Leer mas...</a></p>                
             </div>
