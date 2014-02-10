@@ -8,7 +8,7 @@ function cabecera(){
             <ul>
                 <li><a href="inicio.php">Inicio</a></li>                        
                 <li><a href="#">Desplegable</a>
-                    <ul>
+                    <ul class="children">
                         <li><a href="#">Pares Magn&eacute;ticos</a></li>                        
                         <li><a href="#">Acupuntura Emocional</a></li>
                         <li><a href="#">Auriculoterapia</a></li>

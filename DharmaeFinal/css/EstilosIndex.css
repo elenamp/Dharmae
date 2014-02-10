@@ -70,16 +70,20 @@ header{
 
 /*--------- menú desplegable------*/
 nav li{
-    display: inline;
-    font-family: merienda;
+    display: block;
+    float:left;
     margin-left: 15px;
     position:relative;
-    list-style: none;
+   // list-style: none;
 }
 nav li a{
     color:#92BCE1;
+    font-family: merienda;
     font-size: 18px;
     padding: 4px;
+    text-decoration: none;
+    display: block;
+    float:left;
     border-radius: 2px;
     -moz-border-radius: 2px; /*estas lineas son para que se vea en navegadores antiguos*/
     -webkit-border-radius: 2px;
@@ -92,46 +96,57 @@ nav li a:hover{/*estas lineas crean el efecto */
     
     
 }
-
-nav li li a{
-    width:100px;/*el ancho de los links del submenu, debe ser fijo, esto servirá para crear la animación mas adelante */
-    display:block;
+#menu ul li ul {/*Estilos de la lista secundaria*/
+	margin: 0px;
+	padding: 0px;
+	width: 175px;
+	height: 0;
+	float: left;
+	position: absolute;
+	left: 0px;
+        top: 43px;
+	border: 0;
+	opacity: 0;
+	filter: alpha(opacity=0); /* Internet Explorer*/
+	overflow: hidden;
+	background: #002C67;
+	z-index: 100;
+	border-radius: 0px 0px 5px 5px;
+	-moz-border-radius: 0px 0px 5px 5px;
+	-webkit-border-radius: 0px 0px 5px 5px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-moz-transition: all 0.3s ease-in-out 0s;
+	-ms-transition: all 0.3s ease-in-out 0s;
+	-o-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
 }
 
-nav li:hover ul {
-    display: block;
+#menu ul li ul.children li a{
+	color: #92BCE1;
+	padding: 13px 0 13px 20px;
+	width: 130px;
+	border-bottom: 1px solid #92BCE1;
+	font-size: 12px;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+#menu ul li ul li:last-child a{border-bottom:none;}
+#menu ul li ul li a:hover{
+	color: #fff;
+	font-weight: bold;
+	padding-left:20px;
 }
 
-nav li ul {
-    width: 0; /*Cambiamos la linea */
-    margin:0;
-    background:#002C67;
-    /*display:none; Lo Eliminamos */
-    position: absolute;
-    list-style-type: none; 
-    overflow:hidden; /* Para evitar Que se salgan los links */
-    z-index:100;/*El Submenu tiene que ir atras, para evitar problemas al :hover*/
-    opacity: 0;
-    filter: alpha(opacity=0); /* Internet Explorer*/
-    -webkit-transition: opacity 0.2s ease-in 0.3s, width 0.4s ease-in 0.3s;/* Chrome, Safari*/
-    transition: opacity 0.2s ease-in 0.3s, width 0.4s ease-in 0.3s;/* Navegadores CSS3 */
-    -moz-transition: opacity 0.2s ease-in 0.3s, width 0.4s ease-in 0.3s; /* Firefox 4 */
-    -o-transition: opacity 0.2s ease-in 0.3s, width 0.4s ease-in 0.3s; /*Opera */
-}
-nav li:hover ul {
-    width: 150px; /*cambiar */
-    opacity: 1;
-    filter: alpha(opacity=100);/* Internet Explorer*/
-    -webkit-transition: opacity 0.1s linear 0s, width 0.3s ease-out 0s;/* Chrome, Safari*/
-    transition: opacity 0.1s linear 0s, width 0.3s ease-out 0s;/* Navegadores CSS3 */
-    -moz-transition: opacity 0.1s linear 0s, width 0.3s ease-out 0s; /* Firefox 4 */
-    -o-transition: oopacity 0.1s linear 0s, width 0.3s ease-out 0s; /* Opera */
-}
 
-nav li ul li{
-    float: none; 
-    position: static; 
-}
+#menu ul li:hover ul.children{height:485px;opacity:1;}
+
+#menu ul li ul:before,#menu ul li ul:after{visibility:hidden;}
 /*-----SLIDER------*/
 
 #slider{

@@ -1,20 +1,46 @@
-.dos_column_right_big{
-	width:67%;
-	float:left;
+.dos_column_left_small{
+	background-color:yellow;
+	width:30%;
+	float:left;	
+	padding:5% 0% 0% 5%;
 	text-align:left;
 }
 
-.dos_column_left_small{
-	background-color:yellow;
-	width:33%;
-	left:67%;
-	float:left;	
+.info_contacto{
+	background-color:blue;
+	margin:5px 5px 0px 0px;
+	font-size:14px;
+	height:50px;
+}
+.info_contacto img{
+	padding:10px;
+	width:30px;
+	height:30px;
+	float:left;
+	position:relative;
+	
+	
+}
+
+.info_contacto p{
+	color:red;
+	background-color:orange;
+	position:relative;
+	font-size:12px;
+	height:50px;
+}
+
+.dos_column_right_big{
+	background-color:green;
+	width:65%;
+	float:left;
+	text-align:left;
 }
 
 form#formulario_contacto{
 	margin:40px 0px 40px 0px;
 	width:70%;
-	left:15%;
+	left:13%;
 	position:relative;
 	padding:10px;
 	background-color:#21619D;
