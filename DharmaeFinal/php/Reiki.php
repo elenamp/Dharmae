@@ -1,4 +1,3 @@
-<!-- Página base para empezar a crear nuevas páginas (terapias, contacto, quienes somos...)-->
 <?php require_once("funciones/headerAndFooter.php");?>
 <html>
     <head>
