@@ -5,6 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
         <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
+		<link type="text/css" rel="stylesheet" href="../css/contacto.css">
 		<meta http-equiv="refresh" content="10;URL=inicio.php" />
     </head>
     <body>
@@ -12,8 +13,7 @@
             <?php cabecera();?>   
         </header>
         <div id="cuerpo"> 
-			Tu mensaje se ha enviado correctamente 
-			 
+			<img src="../img/enfermeracorreook.png" alt="Éxito envío email" class="img_correo">
         </div>
         
         <footer>

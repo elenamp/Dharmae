@@ -128,4 +128,11 @@ input:required {
 	border: 13px solid yellow;
 }
 
+img.img_correo{
+	margin:2%; 
+	width:96%;
+    border-radius: 5px;/*esta propiedad bordea la esquinas*/
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
 

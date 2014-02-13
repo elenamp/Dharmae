@@ -5,14 +5,15 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
         <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
-		<meta http-equiv="refresh" content="10;URL=contacto.php" />
+		<link type="text/css" rel="stylesheet" href="../css/contacto.css">
+		<meta http-equiv="refresh" content="10;URL=inicio.php" />
     </head>
     <body>
         <header>
             <?php cabecera();?>   
         </header>
         <div id="cuerpo"> 
-             Error! Ha habido algún fallo     
+			<img src="../img/enfermeracorreofail.png" alt="Éxito envío email" class="img_correo">
         </div>
         
         <footer>
