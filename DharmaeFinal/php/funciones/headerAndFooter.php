@@ -1,8 +1,9 @@
 <?php
+/********CABECERA DE LA PÁGINA WEB***********/
 function cabecera(){
 	?>
     <div id="cabecera">
-        <div id="logotipo"><img src="../img/logo.jpg"></div>
+        <div id="logotipo"><img src="../img/logo.jpg" alt="Logo Dharmae"></div>
         <div id="menu">
         <nav>
             <ul>
@@ -30,6 +31,8 @@ function cabecera(){
     </div>
 	<?php
 }
+
+/******PIE DE PÁGINA DE LA PÁGINA WEB***********/
 function pieDePagina(){
 	?>
 	<p> © 2014 Luis "el del Luissenger" Studios Copyright :P. All Rights Reserved.</p>	
