@@ -18,22 +18,16 @@
         <div id="cuerpo"> 
 			<div class="dos_column_left_small">
 				<div class="info_contacto">
-					<p>
-                                            <img src="../img/icon/blue-home-icon.png" alt="Acupuntura Emocional"/>
-						C/Saavedra y Fajardo Nº100 2ºB (Salamanca)
-					</p>
+                                    <img src="../img/icon/blue-home-icon.png" alt="Acupuntura Emocional"/>
+					<p>Dirección: </br> C/Saavedra y Fajardo Nº100 2ºB (Salamanca)</p>
 				</div>
 				<div class="info_contacto">
-					<p>
-                                            <img src="../img/icon/blue-mail-icon.png" alt="Acupuntura Emocional"/>
-						osteopatia-acupuntura@hotmail.com
-					</p>
+                                    <img src="../img/icon/blue-mail-icon.png" alt="Acupuntura Emocional"/>
+					<p>E-mail: </br> osteopatia-acupuntura@hotmail.com</p>
 				</div>
 				<div class="info_contacto">
-					<p>
-                                            <img src="../img/icon/blue-balloon-icon.png" alt="Acupuntura Emocional"/>
-						605535534
-					</p>
+                                    <img src="../img/icon/blue-balloon-icon.png" alt="Acupuntura Emocional"/>
+					<p>Telefono: </br> 605535534</p>
 				</div>							
 			</div>
 			<div class="dos_column_right_big">
