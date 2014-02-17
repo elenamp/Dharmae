@@ -1,5 +1,5 @@
 .dos_column_left_small{
-	background-color:yellow;
+	
 	width:30%;
 	float:left;	
 	padding:5% 0% 0% 5%;
@@ -7,31 +7,38 @@
 }
 
 .info_contacto{
-	background-color:blue;
+	background-color:white;
 	margin:5px 5px 0px 0px;
 	font-size:14px;
 	height:50px;
+        text-align: center;
+        border-radius: 5px;/*esta propiedad bordea la esquinas*/
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    /*sombra de la caja header*/
+    box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*/
+    -moz-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/;
+    -webkit-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/; 
+
+        
 }
 .info_contacto img{
 	padding:10px;
 	width:30px;
 	height:30px;
-	float:left;
-	position:relative;
-	
+	float:left;	
 	
 }
 
 .info_contacto p{
-	color:red;
-	background-color:orange;
-	position:relative;
-	font-size:12px;
-	height:50px;
+	color:#000;	
+	font-size:15px;
+        text-align: center;
+        padding: 5px;
+	height:auto;             
 }
 
-.dos_column_right_big{
-	background-color:green;
+.dos_column_right_big{	
 	width:65%;
 	float:left;
 	text-align:left;
