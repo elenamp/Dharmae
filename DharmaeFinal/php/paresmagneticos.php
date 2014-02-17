@@ -13,7 +13,7 @@ require_once("funciones/headTerapias.php");?>
 
             <div id="descripcionterapia">
                 <img id="logoterapia" src="../img/Terapias/ParesMagneticos/paresmagneticoslogo.png"/>             
-                <div id="parrafo1" ALIGN=left>
+                <div id="parrafo1">
                     <p>
                         El Ph normal  de nuestro cuerpo está entre  7,35  o  7,45.
                         <br><br>

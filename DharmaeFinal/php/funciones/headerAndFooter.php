@@ -8,7 +8,7 @@ function cabecera(){
         <nav>
             <ul>
                 <li><a href="inicio.php">Inicio</a></li>  
-				<li><a href="Quienes">Quiénes Somos</a></li>                      
+				<li><a href="quienessomos.php">Quiénes Somos</a></li>                      
                 <li><a href="#">Terapias ↓</a>
                     <ul class="children">
                         <li><a href="paresmagneticos.php">Pares Magn&eacute;ticos</a></li>                        

@@ -13,7 +13,7 @@ require_once("funciones/headTerapias.php");?>
 
             <div id="descripcionterapia">
                 <img id="logoterapia" src="../img/Terapias/AcupunturaEmocional/acupunturaemocionallogo.png"/>             
-                <div id="parrafo1" ALIGN=left>
+                <div id="parrafo1" >
                     <p>
                         Todas las dolencias que sufrimos tienen relación directa con los <strong>7 sentimientos</strong>, 
                         distintas emociones que condicionan nuestro  estado de salud y que actúan de manera 
@@ -31,10 +31,7 @@ require_once("funciones/headTerapias.php");?>
                     <br><br>
                     Te  invitamos a que nos cuentes tu caso. 
                     Seguro que podemos ayudarte.
-
                     <br><br>
-
-
                     </p>
                 </div>  
 
