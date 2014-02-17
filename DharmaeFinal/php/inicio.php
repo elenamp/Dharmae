@@ -85,68 +85,68 @@
         <div id="cuerpo"> 
             <div id="Contenido1">
                 <div id="titulo"><p>Enfermeria</p></div>
-                <div id="foto"><a href=""><img src="../img/enfermeria.jpeg" alt="Enfermeria" title="Enfermeria"></a></div>
+                <div id="foto"><a href="enfermeria.php"><img src="../img/enfermeria.jpeg" alt="Enfermeria" title="Enfermeria"></a></div>
                 <div id="descripcion">Restauracion del Ph normal de nuestro organismo que impide el crecimiento de virus y bacterias .  </div>
                 <p><a href="">Leer mas...</a></p>                
             </div>
             <div id="Contenido1">
                 <div id="titulo"><p>Facioterapia Vietnamita</p></div>
-                <div id="foto"><a href=""><img src="../img/facioterapia[1].jpg" alt="Facioterapia" title="Facioterapia"></a></div>
+                <div id="foto"><a href="facioterapiavietnamita.php"><img src="../img/facioterapia[1].jpg" alt="Facioterapia" title="Facioterapia"></a></div>
                 <div id="descripcion">Restauracion del Ph normal de nuestro organismo que impide el crecimiento de virus y bacterias .  </div>
                 <p><a href="">Leer mas...</a></p>                
             </div>
              <div id="Contenido1">
                 <div id="titulo"><p>Pares Magneticos</p></div>
-                <div id="foto"><a href=""><img src="../img/pares magneticos.jpg" alt="Pares Magnéticos" title="Pares Magnéticos"></a></div>
+                <div id="foto"><a href="paresmagneticos.php"><img src="../img/pares magneticos.jpg" alt="Pares Magnéticos" title="Pares Magnéticos"></a></div>
                 <div id="descripcion">Restauracion del Ph normal de nuestro organismo que impide el crecimiento de virus y bacterias .  </div>
                 <p><a href="">Leer mas...</a></p>                
             </div>
             
             <div id="Contenido1">
                 <div id="titulo"><p>Acupuntura Emocional</p></div>
-                <div id="foto"><a href=""><img src="../img/acupuntura emocional.jpg" alt="Acupuntura Emocional" title="Acupuntura Emocional"></a></div>
+                <div id="foto"><a href="acupunturaemocional.php"><img src="../img/acupuntura emocional.jpg" alt="Acupuntura Emocional" title="Acupuntura Emocional"></a></div>
                 <div id="descripcion">La solución a la depresión, la apatía, la ansiedad esta en esta terapia.</div>
                 <p><a href="">Leer mas...</a></p>                
             </div>
             
             <div id="Contenido1">
                 <div id="titulo"><p>Auriculoterapia</p></div>
-                <div id="foto"><a href=""><img src="../img/auriculoterapia.jpg" alt="Auriculoterapia" title="Auriculoterapia"></a></div>
+                <div id="foto"><a href="auriculoterapia.php"><img src="../img/auriculoterapia.jpg" alt="Auriculoterapia" title="Auriculoterapia"></a></div>
                 <div id="descripcion">La estimulación de  puntos de la oreja nos proporciona salud y equilibrio.</div>
                 <p><a href="">Leer mas...</a></p>                
             </div>
             
             <div id="Contenido1">
                 <div id="titulo"><p>Acupuntura abdominal</p></div>
-                <div id="foto"><a href=""><img src="../img/acupuntura abdominal.jpg" alt="Acupuntura Abdominal" title="Acupuntura Abdominal"></a></div>
+                <div id="foto"><a href="acupunturaabdominal.php"><img src="../img/acupuntura abdominal.jpg" alt="Acupuntura Abdominal" title="Acupuntura Abdominal"></a></div>
                 <div id="descripcion">Indolora y de efectos inmediatos, acaba con los dolores.</div>
                 <p><a href="">Leer mas...</a></p>                
             </div>
                         
             <div id="Contenido1">
                 <div id="titulo"><p>Homeopatia</p></div>
-                <div id="foto"><a href=""><img src="../img/Homeopatia[1].jpg" alt="Homeopatia" title="Homeopatia"></a></div>
+                <div id="foto"><a href="homeopatia.php"><img src="../img/Homeopatia[1].jpg" alt="Homeopatia" title="Homeopatia"></a></div>
                 <div id="descripcion">El complemento ideal a nuestras terapias.</div>
                 <p><a href="">Leer mas...</a></p>                
             </div>
             
             <div id="Contenido1">
                 <div id="titulo"><p>Quiromasaje </p></div>
-                <div id="foto"><a href=""><img src="../img/quiromasaje.jpg" alt="Quiromasaje" title="Quiromasaje"></a></div>
+                <div id="foto"><a href="quiromasaje.php"><img src="../img/quiromasaje.jpg" alt="Quiromasaje" title="Quiromasaje"></a></div>
                 <div id="descripcion">¿Seguro que no te apetece un buen masaje?</div>
                 <p><a href="">Leer mas...</a></p>                
             </div>
             
             <div id="Contenido1">
                 <div id="titulo"><p>Drenaje Linfatico</p></div>
-                <div id="foto"><a href=""><img src="../img/13-drenaje-linfatico[1].jpg" alt="Drenaje Linfático" title="Drenaje Linfático"></a></div>
+                <div id="foto"><a href="drenajelinfatico.php"><img src="../img/13-drenaje-linfatico[1].jpg" alt="Drenaje Linfático" title="Drenaje Linfático"></a></div>
                 <div id="descripcion">El empujon que necesita tu cuerpo para eliminar toxinas y liquidos .</div>
                 <p><a href="">Leer mas...</a></p>                
             </div>
             
             <div id="Contenido1">
                 <div id="titulo"><p>Osteopatía estructural</p></div>
-                <div id="foto"><a href=""><img src="../img/osteopatía.jpg" alt="Osteopatia" title="Osteopatia"></a></div>
+                <div id="foto"><a href="osteopatiaestructural.php"><img src="../img/osteopatía.jpg" alt="Osteopatia" title="Osteopatia"></a></div>
                 <div id="descripcion">Recupera la movilidad y acaba con tus dolores. </div>
                 <p><a href="">Leer mas...</a></p>                
             </div>

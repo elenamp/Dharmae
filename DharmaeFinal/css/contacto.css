@@ -4,37 +4,26 @@
 	float:left;	
 	padding:5% 0% 0% 5%;
 	text-align:left;
+        height: auto;
 }
 
-.info_contacto{
-	background-color:white;
-	margin:5px 5px 0px 0px;
-	font-size:14px;
+.info_contacto{	
 	height:50px;
-        text-align: center;
-        border-radius: 5px;/*esta propiedad bordea la esquinas*/
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    /*sombra de la caja header*/
-    box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*/
-    -moz-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/;
-    -webkit-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/; 
-
-        
+        width: 120%;       
 }
 .info_contacto img{
 	padding:10px;
-	width:30px;
-	height:30px;
+	width:14%;	
 	float:left;	
 	
 }
 
 .info_contacto p{
-	color:#000;	
+	color:#fff;
+        
 	font-size:15px;
         text-align: center;
-        padding: 5px;
+        padding-top: 10px;
 	height:auto;             
 }
 
