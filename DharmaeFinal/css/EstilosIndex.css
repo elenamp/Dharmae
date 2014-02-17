@@ -205,6 +205,16 @@ nav li a:hover{/*estas lineas crean el efecto */
     font-size: 17px;
 
 }
+
+#parrafo1{
+    float:left;
+    margin:50px;
+    width: 90%;
+    height: auto;
+    font-size: 14pt;
+    
+}
+
 /*------FOOTER-----*/
 footer{
     width: 100%;
@@ -249,6 +259,7 @@ footer p{
  footer{background:pink;}   
 }
 
+
 /**********************Tablet Portrait***************************/
 @media only screen and (min-width: 768px) and (max-width:959px){
 
@@ -270,7 +281,7 @@ footer p{
     footer{background:darkorange;}
 }
 /**********************Mobile Portrait***************************/
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 557px) {
     header{width: 100%;height: auto;}
     #logotipo{height:150px;width: 94%;}
     #logotipo img{
@@ -287,9 +298,14 @@ footer p{
         width: 100%;
     }    
     nav li{        
-    display:inline;
-    
-    margin: 0px;
+    display:inline;    
+    margin: 0px;    
+}
+#parrafo1{
+    float:left;
+    margin:10%;
+    width: 80%;    
+    font-size: 12pt;
     
 }
     nav li a{font-size: 14px;}
@@ -302,7 +318,7 @@ footer p{
     footer{background:greenyellow;height: auto;}
 }
 /**********************Mobile Landscape(tumbao)***************************/
-@media only screen and (min-width: 480px) and (max-width:767px){
+@media only screen and (min-width: 557px) and (max-width:822px){
     #menu{        
         float:left;
         margin-right: 20px;
@@ -322,8 +338,19 @@ footer p{
     #contenido1{height: 250px;}
     #Contenido1 #descripcion{font-size: 10px; }
     #contenido1 #foto img{height: 40%;}
+    
+    #parrafo1{
+    
+    width: 80%;    
+    font-size: 12pt;    
+}
+    
     footer{background:red;}
 }
+
+
+
+
 /***********************Mobile Portrait 320px**************************/
 @media only screen and (max-width:420px){ 
 
@@ -363,6 +390,8 @@ footer p{
     -moz-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/;
     -webkit-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/; 
 }
+
+
 #SliderTerapias{
     width: 95%;
     height: auto;
