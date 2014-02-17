@@ -36,68 +36,68 @@
 		        <div class="flexslider">
 		          <ul class="slides">
 		            <li>
-						<a href="paresmagneticos.php" target="_blank">
+						<a href="paresmagneticos.php">
 		  	    	    	<img src="../img/Terapias/ParesMagneticos/paresmagneticos1.jpg" alt="Pares Magneticos"/>
 						</a>
 						<p class="flex-caption">Pares magnéticos</p>
 						
 		  	    	</li>
 		  	    	<li>
-						<a href="acupunturaemocional.php" target="_blank">
+						<a href="acupunturaemocional.php">
 		  	    	    	<img src="../img/Terapias/AcupunturaEmocional/acupunturaemocional1.jpg" alt="Acupuntura Emocional"/>
 						</a>
 						<p class="flex-caption">Acupuntura emocional</p>
 		  	    	</li>
 		  	    	<li>
-						<a href="auriculoterapia.php" target="_blank">
+						<a href="auriculoterapia.php">
 		  	    	    	<img src="../img/Terapias/Auriculoterapia/auriculoterapia1.jpg" alt="Auriculoterapia"/>
 						</a>
 						<p class="flex-caption">Auriculoterapia</p>
 		  	    	</li>
 		  	    	<li>
-						<a href="acupunturaabdominal.php" target="_blank">
+						<a href="acupunturaabdominal.php">
 		  	    	    	<img src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal1.jpg" alt="Acupuntura Abdominal"/>
 						</a>
 						<p class="flex-caption">Acupuntura abdominal</p>
 		  	    	</li>
 		  	    	<li>
-						<a href="homeopatia.php" target="_blank">
+						<a href="homeopatia.php">
 		  	    	    	<img src="../img/Terapias/Homeopatia/homeopatia1.jpg" alt="Homeopatia"/>
 						</a>
 						<p class="flex-caption">Homeopatía</p>
 		  	    	</li>
 		  	    	<li>
-						<a href="quiromasaje.php" target="_blank">
+						<a href="quiromasaje.php">
 		  	    	    	<img src="../img/Terapias/Quiromasaje/quiromasaje1.jpg" alt="Quiromasaje"/>
 						</a>
 						<p class="flex-caption">Quiromasaje</p>
 		  	    	</li>
 		  	    	<li>
-						<a href="drenajelinfatico.php" target="_blank">
+						<a href="drenajelinfatico.php">
 		  	    	    	<img src="../img/Terapias/DrenajeLinfatico/drenajelinfatico1.jpg" alt="Drenaje Linfatico" />
 						</a>
 						<p class="flex-caption">Drenaje linfático</p>
 		  	    	</li>
 		  	    	<li>
-						<a href="osteopatia.php" target="_blank">
+						<a href="osteopatiaestructural.php">
 		  	    	    	<img src="../img/Terapias/Osteopatia/osteopatia1.jpg" alt="Osteopatia"/>
 						</a>
 						<p class="flex-caption">Osteopatía</p>
 		  	    	</li>
 		  	    	<li>
-						<a href="reiki.php" target="_blank">
+						<a href="reiki.php">
 		  	    	    	<img src="../img/Terapias/Reiki/reiki1.jpg" alt="Reiki"/>
 						</a>
 						<p class="flex-caption">Reiki</p>
 		  	    	</li>
                     <li>
-						<a href="facioterapiavietnamita.php" target="_blank">
+						<a href="facioterapiavietnamita.php">
 		  	    	    	<img src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita1.jpg" alt="Facioterapia Vietnamita"/>
 						</a>
 						<p class="flex-caption">Facioterapia Vietnamita</p>
 		  	    	</li>
                     <li>
-						<a href="enfermeria.php" target="_blank">
+						<a href="enfermeria.php">
 		  	    	    	<img src="../img/Terapias/Enfermeria/enfermeria1.jpeg" alt="Enfermeria"/>
 						</a>
 						<p class="flex-caption">Enfermeria</p>
