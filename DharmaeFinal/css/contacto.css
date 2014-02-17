@@ -1,3 +1,4 @@
+/*---------------ESTILOS GENERALES----------*/
 .dos_column_left_small{
 	
 	width:30%;
@@ -141,5 +142,31 @@ img.img_correo{
     border-radius: 5px;/*esta propiedad bordea la esquinas*/
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
+}
+/*************************************************MEDIA QUERYS************************************/
+@media only screen and (min-width: 1380px){
+
+ footer{background:pink;}   
+}
+
+/**********************Tablet Portrait***************************/
+@media only screen and (min-width: 768px) and (max-width:959px){
+
+    footer{background:darkorange;}
+}
+/**********************Mobile Portrait***************************/
+@media only screen and (max-width: 480px) {
+	
+    footer{background:greenyellow;height: auto;}
+}
+/**********************Mobile Landscape(tumbao)***************************/
+@media only screen and (min-width: 480px) and (max-width:767px){
+
+    footer{background:red;}
+}
+/***********************Mobile Portrait 320px**************************/
+@media only screen and (max-width:420px){ 
+
+    footer{background:aqua;height: auto;}
 }
 
