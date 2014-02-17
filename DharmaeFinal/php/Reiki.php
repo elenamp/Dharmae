@@ -4,9 +4,10 @@
         <title>Reiki</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
-        <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
 	    <!-- Slider CSS -->
 		<link rel="stylesheet" href="../css/flexslider.css" type="text/css" media="screen" />
+        <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
+	    
       <!-- jQuery -->
       <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
@@ -58,47 +59,36 @@
 			          <ul class="slides">
 			            <li>
 			  	    	    <img src="../img/pares magneticos.jpg" alt="Pares Magneticos"/>
-							<p class="flex-caption">Pares magnéticos</p>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <img src="../img/acupuntura emocional.jpg" alt="Acupuntura Emocional"/>
-							<p class="flex-caption">Acupuntura emocional</p>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <img src="../img/auriculoterapia.jpg" alt="Auriculoterapia"/>
-							<p class="flex-caption">Auriculoterapia</p>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <img src="../img/acupuntura abdominal.jpg" alt="Acupuntura Abdominal"/>
-							<p class="flex-caption">Acupuntura abdominal</p>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <img src="../img/Homeopatia[1].jpg" alt="Homeopatia"/>
-							<p class="flex-caption">Homeopatía</p>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <img src="../img/quiromasaje.jpg" alt="Quiromasaje"/>
-							<p class="flex-caption">Quiromasaje</p>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <img src="../img/13-drenaje-linfatico[1].jpg" alt="Drenaje Linfatico" />
-							<p class="flex-caption">Drenaje linfático</p>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <img src="../img/osteopatia.jpg" alt="Osteopatia"/>
-							<p class="flex-caption">Osteopatía</p>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <img src="../img/reiki.jpg" alt="Reiki"/>
-							<p class="flex-caption">Reiki</p>
 			  	    	</li>
 	                    <li>
 	                        <img src="../img/facioterapia[1].jpg" alt="Facioterapia Vietnamita"/>
-							<p class="flex-caption">Facioterapia Vietnamita</p>
 			  	    	</li>
 	                    <li>
 	                        <img src="../img/enfermeria.jpeg" alt="Enfermeria"/>
-							<p class="flex-caption">Enfermeria</p>
 			  	    	</li>
 			          </ul>
 			        </div>
