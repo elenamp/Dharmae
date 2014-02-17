@@ -53,9 +53,7 @@
 	                altamente satisfactorio. </p>
                    
             </div>
-            <!--<div id="SliderTerapias">SLIDER DE FOTOS</div>-->
-	        <div id="slider">
-			
+            <div id="SliderTerapias">
 			        <div class="flexslider">
 			          <ul class="slides">
 			            <li>
