@@ -1,10 +1,8 @@
-<?php require_once("funciones/headerAndFooter.php"); ?>
+<?php require_once("funciones/headerAndFooter.php");
+require_once("funciones/headTerapias.php");?>
 <html>
     <head>
-        <title>Pares Magneticos</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
+        <?php headTerapia("Pares Magnéticos");?>
     </head>
     <body>
         <header>
@@ -39,7 +37,23 @@
                 </div>  
 
             </div>
-            <div id="SliderTerapias">SLIDER DE FOTOS</div>
+            <div id="SliderTerapias">
+			        <div class="flexslider">
+			          <ul class="slides">
+  			            <li>
+  			  	    	    <a href="../img/Terapias/ParesMagneticos/paresmagneticos1.jpg" target="_blank">
+  								<img src="../img/Terapias/ParesMagneticos/paresmagneticos1.jpg" alt="Imagen 1 pares magnéticos" />
+  							</a>
+  			  	    	</li>
+  			            <li>
+  			  	    	    <a href="../img/Terapias/ParesMagneticos/paresmagneticos2.jpg" target="_blank">
+  								<img src="../img/Terapias/ParesMagneticos/paresmagneticos2.jpg" alt="Imagen 2 pares magnéticos" />
+  							</a>
+  			  	    	</li>
+			          </ul>
+			        </div>
+			          
+	        </div>
         </div>
         <footer>
             <?php pieDePagina(); ?>

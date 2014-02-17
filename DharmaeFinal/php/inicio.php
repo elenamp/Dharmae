@@ -35,8 +35,11 @@
 		        <div class="flexslider">
 		          <ul class="slides">
 		            <li>
-		  	    	    <img src="../img/Terapias/ParesMagneticos/paresmagneticos1.jpg" alt="Pares Magneticos"/>
+						<a href="paresmagneticos.php" target="_blank">
+		  	    	    	<img src="../img/Terapias/ParesMagneticos/paresmagneticos1.jpg" alt="Pares Magneticos"/>
+						</a>
 						<p class="flex-caption">Pares magnéticos</p>
+						
 		  	    	</li>
 		  	    	<li>
 		  	    	    <img src="../img/Terapias/AcupunturaEmocional/acupunturaemocional1.jpg" alt="Acupuntura Emocional"/>

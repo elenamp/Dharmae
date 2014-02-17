@@ -1,10 +1,8 @@
-<?php require_once("funciones/headerAndFooter.php"); ?>
+<?php require_once("funciones/headerAndFooter.php");
+require_once("funciones/headTerapias.php");?>
 <html>
     <head>
-        <title>Osteopatia Estructural</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
+        <?php headTerapia("Osteopatía Estructural");?>
     </head>
     <body>
         <header>
@@ -113,7 +111,48 @@
                 </div>  
 
             </div>
-            <div id="SliderTerapias">SLIDER DE FOTOS</div>
+            <div id="SliderTerapias">
+			        <div class="flexslider">
+			          <ul class="slides">
+			            <li>
+			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia1.jpg" target="_blank">
+								<img src="../img/Terapias/Osteopatia/osteopatia1.jpg" alt="Imagen 1 osteopatía" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia2.jpg" target="_blank">
+								<img src="../img/Terapias/Osteopatia/osteopatia2.jpg" alt="Imagen 2 osteopatía" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia3.jpg" target="_blank">
+								<img src="../img/Terapias/Osteopatia/osteopatia3.jpg" alt="Imagen 3 osteopatía" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia4.jpg" target="_blank">
+								<img src="../img/Terapias/Osteopatia/osteopatia4.jpg" alt="Imagen 4 osteopatía" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia5.jpg" target="_blank">
+								<img src="../img/Terapias/Osteopatia/osteopatia5.jpg" alt="Imagen 5 osteopatía" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia6.jpg" target="_blank">
+								<img src="../img/Terapias/Osteopatia/osteopatia6.jpg" alt="Imagen 6 osteopatía" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia7.jpg" target="_blank">
+								<img src="../img/Terapias/Osteopatia/osteopatia7.jpg" alt="Imagen 7 osteopatía" />
+							</a>
+			  	    	</li>
+			          </ul>
+			        </div>
+			          
+	        </div>
         </div>
         <footer>
             <?php pieDePagina(); ?>

@@ -1,10 +1,8 @@
-<?php require_once("funciones/headerAndFooter.php"); ?>
+<?php require_once("funciones/headerAndFooter.php");
+require_once("funciones/headTerapias.php");?>
 <html>
     <head>
-        <title>Acupuntura Emocional</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
+        <?php headTerapia("Acupuntura Emocional");?>
     </head>
     <body>
         <header>
@@ -41,7 +39,23 @@
                 </div>  
 
             </div>
-            <div id="SliderTerapias">SLIDER DE FOTOS</div>
+            <div id="SliderTerapias">
+			        <div class="flexslider">
+			          <ul class="slides">
+			            <li>
+			  	    	    <a href="../img/Terapias/AcupunturaEmocional/acupunturaemocional1.jpg" target="_blank">
+								<img src="../img/Terapias/AcupunturaEmocional/acupunturaemocional1.jpg" alt="Imagen 1 acupuntura emocional" />
+							</a>
+			  	    	</li>
+			  	    	<li>
+			  	    	    <a href="../img/Terapias/AcupunturaEmocional/acupunturaemocional2.jpg" target="_blank">
+								<img src="../img/Terapias/AcupunturaEmocional/acupunturaemocional2.jpg" alt="Imagen 2 acupuntura emocional" />
+							</a>
+			  	    	</li>
+			          </ul>
+			        </div>
+			          
+	        </div>
         </div>
         <footer>
             <?php pieDePagina(); ?>

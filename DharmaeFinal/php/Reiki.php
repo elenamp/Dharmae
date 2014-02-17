@@ -1,34 +1,8 @@
-<?php require_once("funciones/headerAndFooter.php");?>
+<?php require_once("funciones/headerAndFooter.php");
+require_once("funciones/headTerapias.php");?>
 <html>
     <head>
-        <title>Reiki</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-	    <!-- Slider CSS -->
-		<link rel="stylesheet" href="../css/flexslider.css" type="text/css" media="screen" />
-        <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
-	    
-      <!-- jQuery -->
-      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-
-      <!-- FlexSlider -->
-      <script src="../js/jquery.flexslider.js"></script>
-
-      <script type="text/javascript">
-        $(function(){
-          SyntaxHighlighter.all();
-        });
-
-		$(window).load(function() {
-		  $('.flexslider').flexslider({
-		    animation: "slide",
-		    animationLoop: false,
-		    itemWidth: 210,
-		    itemMargin: 5
-		  });
-		});
-		
-      </script>
+		<?php headTerapia("Reiki");?>
     </head>
     <body>
         <header>
@@ -60,37 +34,24 @@
 			        <div class="flexslider">
 			          <ul class="slides">
 			            <li>
-			  	    	    <img src="../img/pares magneticos.jpg" alt="Pares Magneticos"/>
+			  	    	    <a href="../img/Terapias/Reiki/reiki1.jpg" target="_blank">
+								<img src="../img/Terapias/Reiki/reiki1.jpg" alt="Imagen 1 reiki" />
+							</a>
 			  	    	</li>
 			  	    	<li>
-			  	    	    <img src="../img/acupuntura emocional.jpg" alt="Acupuntura Emocional"/>
+			  	    	    <a href="../img/Terapias/Reiki/reiki2.jpg" target="_blank">
+								<img src="../img/Terapias/Reiki/reiki2.jpg" alt="Imagen 2 reiki" />
+							</a>
 			  	    	</li>
 			  	    	<li>
-			  	    	    <img src="../img/auriculoterapia.jpg" alt="Auriculoterapia"/>
+			  	    	    <a href="../img/Terapias/Reiki/reiki3.jpg" target="_blank">
+								<img src="../img/Terapias/Reiki/reiki3.jpg" alt="Imagen 3 reiki" />
+							</a>
 			  	    	</li>
 			  	    	<li>
-			  	    	    <img src="../img/acupuntura abdominal.jpg" alt="Acupuntura Abdominal"/>
-			  	    	</li>
-			  	    	<li>
-			  	    	    <img src="../img/Homeopatia[1].jpg" alt="Homeopatia"/>
-			  	    	</li>
-			  	    	<li>
-			  	    	    <img src="../img/quiromasaje.jpg" alt="Quiromasaje"/>
-			  	    	</li>
-			  	    	<li>
-			  	    	    <img src="../img/13-drenaje-linfatico[1].jpg" alt="Drenaje Linfatico" />
-			  	    	</li>
-			  	    	<li>
-			  	    	    <img src="../img/osteopatia.jpg" alt="Osteopatia"/>
-			  	    	</li>
-			  	    	<li>
-			  	    	    <img src="../img/reiki.jpg" alt="Reiki"/>
-			  	    	</li>
-	                    <li>
-	                        <img src="../img/facioterapia[1].jpg" alt="Facioterapia Vietnamita"/>
-			  	    	</li>
-	                    <li>
-	                        <img src="../img/enfermeria.jpeg" alt="Enfermeria"/>
+			  	    	    <a href="../img/Terapias/Reiki/reiki4.jpg" target="_blank">
+								<img src="../img/Terapias/Reiki/reiki4.jpg" alt="Imagen 4 reiki" />
+							</a>
 			  	    	</li>
 			          </ul>
 			        </div>

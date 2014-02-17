@@ -7,8 +7,9 @@ function cabecera(){
         <div id="menu">
         <nav>
             <ul>
-                <li><a href="inicio.php">Inicio</a></li>                        
-                <li><a href="#">Desplegable</a>
+                <li><a href="inicio.php">Inicio</a></li>  
+				<li><a href="Quienes">Quiénes Somos</a></li>                      
+                <li><a href="#">Terapias ↓</a>
                     <ul class="children">
                         <li><a href="paresmagneticos.php">Pares Magn&eacute;ticos</a></li>                        
                         <li><a href="acupunturaemocional.php">Acupuntura Emocional</a></li>
@@ -24,7 +25,6 @@ function cabecera(){
                     </ul>
                 </li>
                 <li><a href="contacto.php">Contacto</a></li>
-                <li><a href="Quienes">Quienes Somos</a></li>
             </ul>
         </nav> 
         </div>

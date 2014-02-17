@@ -11,7 +11,7 @@ function enviarEmail(){
 	if(isset($_POST['btnEnviar'])){
 		//Si todos los campos requeridos han sido rellenos
 		if($_POST['txtNombre']!="" && $_POST['txtEmail']!="" && $_POST['txtMensaje']!=""){
-			$para = "caherfe@hotmail.com";
+			$para = "osteopatia-acupuntura@hotmail.com";
 			$titulo = 'Mensaje de página Dharmae';
 			$mensaje = $_POST['txtMensaje'];
 			$cabeceras = 'From: =?UTF-8?B?'.base64_encode($_POST['txtNombre']).'?= <'.$_POST['txtEmail'].'>' . "\r\n" .
