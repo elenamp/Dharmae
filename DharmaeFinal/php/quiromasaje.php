@@ -12,8 +12,9 @@ require_once("funciones/headTerapias.php");?>
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
+
                 <img id="logoterapia" src="../img/Terapias/Quiromasaje/quiromasajelogo.png"/>             
-                <div id="parrafo1" ALIGN=left>
+                <div id="parrafo1">
                     <p>
                         ¿A quién no le agrada un buen masaje? Tómatelo como un capricho, porque oye, 
                         seguro que lo mereces, o tal vez sea que lo necesites.
