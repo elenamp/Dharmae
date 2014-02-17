@@ -14,7 +14,7 @@
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/acupunturaabdominallogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominallogo.png"/>             
                 <div id="parrafo1" ALIGN=left>
                     <p>
                         Es un tipo de acupuntura zonal, en la que se puntura en la zona del abdomen, 

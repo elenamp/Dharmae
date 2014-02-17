@@ -14,7 +14,7 @@
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/auriculoterapialogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/Auriculoterapia/auriculoterapialogo.png"/>             
                 <div id="parrafo1" ALIGN=left>
                     <p>
                         Consiste en estimular los puntos reflejos que hay en la oreja, 

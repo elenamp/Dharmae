@@ -14,7 +14,7 @@
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/acupunturaemocionallogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/AcupunturaEmocional/acupunturaemocionallogo.png"/>             
                 <div id="parrafo1" ALIGN=left>
                     <p>
                         Todas las dolencias que sufrimos tienen relación directa con los <strong>7 sentimientos</strong>, 

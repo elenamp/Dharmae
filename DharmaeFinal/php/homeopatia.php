@@ -14,7 +14,7 @@
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/homeopatialogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/Homeopatia/homeopatialogo.png"/>             
                 <div id="parrafo1" ALIGN=left>
                     <p>
                         Es una medicina alternativa surgida en el S.XVIII 

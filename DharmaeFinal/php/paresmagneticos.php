@@ -14,7 +14,7 @@
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/paresmagneticoslogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/ParesMagneticos/paresmagneticoslogo.png"/>             
                 <div id="parrafo1" ALIGN=left>
                     <p>
                         El Ph normal  de nuestro cuerpo está entre  7,35  o  7,45.

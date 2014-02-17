@@ -37,7 +37,7 @@
         <div id="cuerpo"> 
             
             <div id="descripcionterapia">
-                  <img id="logoterapia" src="../img/reikilogo.png"/>             
+                  <img id="logoterapia" src="../img/Terapias/Reiki/reikilogo.png"/>             
             <div id="parrafo1">
 	            <p  ALIGN=left>Partimos del concepto de que el ser humano es todo energía. 
 	                El Reiki es un conocido sistema de relajación  y control del dolor, 

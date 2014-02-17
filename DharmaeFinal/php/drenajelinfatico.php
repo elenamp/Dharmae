@@ -14,7 +14,7 @@
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/drenajelinfaticologo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/DrenajeLinfatico/drenajelinfaticologo.png"/>             
                 <div id="parrafo1" ALIGN=left>
                     <p>Es una relajante y efectiva técnica que actúa directamente sobre nuestro sistema linfático, 
                         que es el encargado de ‘depurar’ la sangre y eliminar toxinas.<br>
