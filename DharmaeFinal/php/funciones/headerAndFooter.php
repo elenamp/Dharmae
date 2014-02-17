@@ -24,7 +24,7 @@ function cabecera(){
                     </ul>
                 </li>
                 <li><a href="contacto.php">Contacto</a></li>
-                <li><a href="Quienes">Quienes Somos</a></li>
+                <li><a href="quienessomos.php">Quienes Somos</a></li>
             </ul>
         </nav> 
         </div>

@@ -15,7 +15,7 @@
 
             <div id="descripcionterapia">
                 <img id="logoterapia" src="../img/quiromasajelogo.png"/>             
-                <div id="parrafo1" ALIGN=left>
+                <div id="parrafo1">
                     <p>
                         ¿A quién no le agrada un buen masaje? Tómatelo como un capricho, porque oye, 
                         seguro que lo mereces, o tal vez sea que lo necesites.

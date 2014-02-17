@@ -15,7 +15,7 @@
 
             <div id="descripcionterapia">
                 <img id="logoterapia" src="../img/homeopatialogo.png"/>             
-                <div id="parrafo1" ALIGN=left>
+                <div id="parrafo1">
                     <p>
                         Es una medicina alternativa surgida en el S.XVIII 
                         como alternativa más benigna a la que era la medicina tradicional de la época. <br>

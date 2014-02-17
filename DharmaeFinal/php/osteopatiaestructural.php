@@ -15,7 +15,7 @@
 
             <div id="descripcionterapia">
                 <img id="logoterapia" src="../img/oteopatiaestructurallogo.png"/>             
-                <div id="parrafo1" ALIGN=left>
+                <div id="parrafo1">
                     <p>La osteopatía es una terapia, ciencia y arte de curación, 
                         o método terapéutico manual que busca la restauración de la movilidad 
                         y la motilidad en todas las estructuras del cuerpo humano, 
