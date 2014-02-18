@@ -1,10 +1,8 @@
-<?php require_once("funciones/headerAndFooter.php"); ?>
+<?php require_once("funciones/headerAndFooter.php");
+require_once("funciones/headTerapias.php");?>
 <html>
     <head>
-        <title>Facioterapia Vietnamita</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
+        <?php headTerapia("Drenaje Linfático");?>
     </head>
     <body>
         <header>
@@ -14,7 +12,7 @@
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/facioterapiavietnamitalogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamitalogo.png"/>             
                 <div id="parrafo1">
                     <p>
                         Creada hace 30 años, consiste en estimular, sin agujas,
@@ -32,7 +30,18 @@
                 </div>  
 
             </div>
-            <div id="SliderTerapias">SLIDER DE FOTOS</div>
+            <div id="SliderTerapias">
+			        <div class="flexslider">
+			          <ul class="slides">
+			            <li>
+			  	    	    <a href="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita1.jpg" target="_blank">
+								<img src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita1.jpg" alt="Imagen 1 facioterapia vietmanita" />
+							</a>
+			  	    	</li>
+			          </ul>
+			        </div>
+			          
+	        </div>
         </div>
         <footer>
             <?php pieDePagina(); ?>

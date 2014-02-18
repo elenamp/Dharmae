@@ -39,7 +39,7 @@
                 </div> 
                 <div id="fichaizq">
                    
-                        <img id="imgficha" src="../img/enfermeria.jpeg">
+                        <img id="imgficha" src="../img/Terapias/Enfermeria/enfermeria1.jpeg">
                     <p>
                         YÉSSICA RIESCO:<br> Diplomada en Enfermería por la Universidad de Salamanca.<br>
                     <li>Osteópata Estructural.</li>
@@ -52,7 +52,7 @@
                     </p>		
                 </div> 
                 <div id="fichader">
-                    <img id="imgficha" src="../img/enfermeria.jpeg">
+                    <img id="imgficha" src="../img/Terapias/Enfermeria/enfermeria1.jpeg">
                     <p>
                         MARIA LUISA GONZÁLEZ: <br>Diplomada en Enfermería por la Universidad de Salamanca.<br>
                     <li>Terapeuta de Acupuntura Emocional y Abdominal.</li>
@@ -63,9 +63,7 @@
 
                     </p>
                 </div>  
-
             </div>
-            <div id="SliderTerapias">SLIDER DE FOTOS</div>
         </div>
         <footer>
             <?php pieDePagina(); ?>

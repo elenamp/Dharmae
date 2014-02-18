@@ -1,10 +1,8 @@
-<?php require_once("funciones/headerAndFooter.php"); ?>
+<?php require_once("funciones/headerAndFooter.php");
+require_once("funciones/headTerapias.php");?>
 <html>
     <head>
-        <title>Auriculoterapia</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
+        <?php headTerapia("Auriculoterapia");?>
     </head>
     <body>
         <header>
@@ -14,7 +12,7 @@
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/auriculoterapialogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/Auriculoterapia/auriculoterapialogo.png"/>             
                 <div id="parrafo1" >
                     <p>
                         Consiste en estimular los puntos reflejos que hay en la oreja, 
@@ -39,7 +37,18 @@
                 </div>  
 
             </div>
-            <div id="SliderTerapias">SLIDER DE FOTOS</div>
+            <div id="SliderTerapias">
+			        <div class="flexslider">
+			          <ul class="slides">
+			            <li>
+			  	    	    <a href="../img/Terapias/Auriculoterapia/auriculoterapia1.jpg" target="_blank">
+								<img src="../img/Terapias/Auriculoterapia/auriculoterapia1.jpg" alt="Imagen 1 auriculoterapia" />
+							</a>
+			  	    	</li>
+			          </ul>
+			        </div>
+			          
+	        </div>
         </div>
         <footer>
             <?php pieDePagina(); ?>

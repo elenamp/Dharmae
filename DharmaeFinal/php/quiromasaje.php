@@ -1,10 +1,8 @@
-<?php require_once("funciones/headerAndFooter.php"); ?>
+<?php require_once("funciones/headerAndFooter.php");
+require_once("funciones/headTerapias.php");?>
 <html>
     <head>
-        <title>Quiromasaje</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
+        <?php headTerapia("Quiromasaje");?>
     </head>
     <body>
         <header>
@@ -14,7 +12,8 @@
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/quiromasajelogo.png"/>             
+
+                <img id="logoterapia" src="../img/Terapias/Quiromasaje/quiromasajelogo.png"/>             
                 <div id="parrafo1">
                     <p>
                         ¿A quién no le agrada un buen masaje? Tómatelo como un capricho, porque oye, 
@@ -37,7 +36,43 @@
                 </div>  
 
             </div>
-            <div id="SliderTerapias">SLIDER DE FOTOS</div>
+            <div id="SliderTerapias">
+			        <div class="flexslider">
+			          <ul class="slides">
+    			            <li>
+    			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje1.jpg" target="_blank">
+    								<img src="../img/Terapias/Quiromasaje/quiromasaje1.jpg" alt="Imagen 1 quiromasaje" />
+    							</a>
+    			  	    	</li>
+    			            <li>
+    			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje2.jpg" target="_blank">
+    								<img src="../img/Terapias/Quiromasaje/quiromasaje2.jpg" alt="Imagen 2 quiromasaje" />
+    							</a>
+    			  	    	</li>
+    			            <li>
+    			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje3.gif" target="_blank">
+    								<img src="../img/Terapias/Quiromasaje/quiromasaje3.gif" alt="Imagen 3 quiromasaje" />
+    							</a>
+    			  	    	</li>
+    			            <li>
+    			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje4.jpg" target="_blank">
+    								<img src="../img/Terapias/Quiromasaje/quiromasaje4.jpg" alt="Imagen 4 quiromasaje" />
+    							</a>
+    			  	    	</li>
+    			            <li>
+    			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje5.jpg" target="_blank">
+    								<img src="../img/Terapias/Quiromasaje/quiromasaje5.jpg" alt="Imagen 5 quiromasaje" />
+    							</a>
+    			  	    	</li>
+    			            <li>
+    			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje6.jpg" target="_blank">
+    								<img src="../img/Terapias/Quiromasaje/quiromasaje6.jpg" alt="Imagen 6 quiromasaje" />
+    							</a>
+    			  	    	</li>
+			          </ul>
+			        </div>
+			          
+	        </div>
         </div>
         <footer>
             <?php pieDePagina(); ?>

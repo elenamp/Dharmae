@@ -1,10 +1,8 @@
-<?php require_once("funciones/headerAndFooter.php"); ?>
+<?php require_once("funciones/headerAndFooter.php");
+require_once("funciones/headTerapias.php");?>
 <html>
     <head>
-        <title>Homeopatia</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width">
-        <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
+        <?php headTerapia("Homeopatía");?>
     </head>
     <body>
         <header>
@@ -14,7 +12,7 @@
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/homeopatialogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/Homeopatia/homeopatialogo.png"/>             
                 <div id="parrafo1">
                     <p>
                         Es una medicina alternativa surgida en el S.XVIII 
@@ -30,7 +28,23 @@
                 </div>  
 
             </div>
-            <div id="SliderTerapias">SLIDER DE FOTOS</div>
+            <div id="SliderTerapias">
+			        <div class="flexslider">
+			          <ul class="slides">
+			            <li>
+			  	    	    <a href="../img/Terapias/Homeopatia/homeopatia1.jpg" target="_blank">
+								<img src="../img/Terapias/Homeopatia/homeopatia1.jpg" alt="Imagen 1 homeopatia" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Homeopatia/homeopatia2.jpg" target="_blank">
+								<img src="../img/Terapias/Homeopatia/homeopatia2.jpg" alt="Imagen 2 homeopatia" />
+							</a>
+			  	    	</li>
+			          </ul>
+			        </div>
+			          
+	        </div>
         </div>
         <footer>
             <?php pieDePagina(); ?>

@@ -9,7 +9,6 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
         <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
-		<link type="text/css" rel="stylesheet" href="../css/contacto.css">
     </head>
     <body>
         <header>
@@ -18,15 +17,15 @@
         <div id="cuerpo"> 
 			<div class="dos_column_left_small">
 				<div class="info_contacto">
-                                    <img src="../img/icon/blue-home-icon.png" alt="Acupuntura Emocional"/>
+                                    <img class="imgContacto" src="../img/icon/blue-home-icon.png" alt="Acupuntura Emocional"/>
 					<p>Dirección: </br> C/Saavedra y Fajardo Nº100 2ºB (Salamanca)</p>
 				</div>
 				<div class="info_contacto">
-                                    <img src="../img/icon/blue-mail-icon.png" alt="Acupuntura Emocional"/>
+                                    <img class="imgContacto" src="../img/icon/blue-mail-icon.png" alt="Acupuntura Emocional"/>
 					<p>E-mail: </br> osteopatia-acupuntura@hotmail.com</p>
 				</div>
 				<div class="info_contacto">
-                                    <img src="../img/icon/blue-balloon-icon.png" alt="Acupuntura Emocional"/>
+                                    <img class="imgContacto" src="../img/icon/blue-balloon-icon.png" alt="Acupuntura Emocional"/>
 					<p>Telefono: </br> 605535534</p>
 				</div>							
 			</div>
