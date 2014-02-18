@@ -307,12 +307,20 @@ nav li a:hover{/*estas lineas crean el efecto */
 }
 
 .mapa_google{	
-	height:50%;
-    width: 35%;  
-	background-color:red; 
+	height:45%;
+    width: 33%;  
 	float:left;    
 	margin-top: -350px;
-	margin-left: 5%;
+	margin-left: 6%;
+}
+
+.mapa_google a{
+	color:#FFF;
+	text-align:left;
+}
+
+.mapa_google small{
+	color:#92BCE1;
 }
 
 .info_contacto img{
@@ -340,8 +348,8 @@ nav li a:hover{/*estas lineas crean el efecto */
 
 form#formulario_contacto{
 	margin:40px 0px 40px 0px;
-	width:70%;
-	left:13%;
+	width:75%;
+	margin-left:13%;
 	position:relative;
 	padding:10px;
 	background-color:#21619D;
@@ -424,8 +432,6 @@ form#formulario_contacto .inf_requerida {
 	font-style:italic;
 }
 
-class="imgContacto"
-
 /*Validación formulario*/
 input:required {
 	border: 13px solid yellow;
@@ -503,6 +509,16 @@ footer p{
     #contenido1{height: 250px;}
     #contenido1 .foto img{height: 50%;}
     footer{background:darkorange;}
+	
+	/*****CONTACTO*****/
+	form#formulario_contacto .inputTextarea {
+		height:150px;
+	}
+	
+	.mapa_google{	
+		height:35%;
+		margin-top: -270px;
+	}
 }
 /**********************Mobile Portrait***************************/
 @media only screen and (max-width: 557px) {
@@ -582,15 +598,26 @@ footer p{
 	    width: 100%;       
 	}
 	
+	form#formulario_contacto .inputTextarea {
+		height:150px;
+	}
+	
 	.mapa_google{	
 		height:30%;
 	    width: 80%;  
-		background-color:red; 
 		float:left;    
 		margin-top: 0px;
-		margin-bottom: 10%;
+		margin-bottom: 15%;
 		margin-left: 10%;
 	}
+	form#formulario_contacto{
+		width:60%;
+	}
+	
+	form#formulario_contacto .inputText {
+		width:80%;
+	}
+	
 }
 /**********************Mobile Landscape(tumbao)***************************/
 @media only screen and (min-width: 557px) and (max-width:822px){
@@ -644,12 +671,14 @@ footer p{
 	
 	.mapa_google{	
 		height:50%;
-	    width: 80%;  
-		background-color:red; 
+	    width: 70%;  
 		float:left;    
 		margin-top: 0px;
 		margin-bottom: 10%;
-		margin-left: 10%;
+		margin-left: 15%;
+	}
+	form#formulario_contacto .inputTextarea {
+		height:150px;
 	}
 }
 
@@ -735,6 +764,11 @@ footer p{
     footer{background:aqua;height: auto;}
     footer p{ color:#92BCE1;margin:10px;}
     #contenido1 .foto img{height: 25%;}
+	
+	/*****CONTACTO*****/	
+	form#formulario_contacto .inputTextarea {
+		height:100px;
+	}
 }
 
 
