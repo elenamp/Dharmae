@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 /*---------------ESTILOS GENERALES----------*/
 body{
-    /*    background:aliceblue;*/
+    
     font-family:Arial, Helvetica, Sans-serif;
     width:90%;
     margin:auto;
@@ -157,6 +157,11 @@ nav li a:hover{/*estas lineas crean el efecto */
       margin-top: 20px;
 
 }
+
+/*Personalización slider de las terapias*/
+.flexslider { border: 5px solid white; }
+.flex-control-paging li a {background: #21619D;}
+
 /*-------Cuerpo------*/
 #cuerpo{
     width: 100%;
@@ -173,8 +178,8 @@ nav li a:hover{/*estas lineas crean el efecto */
     -moz-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/;
     -webkit-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/; 
 }
-/*------Cntenido-----*/
-#Contenido1{
+/*------Contenido-----*/
+.Contenido1{
     width: 25%;
     height: auto;
     float:left;
@@ -186,25 +191,244 @@ nav li a:hover{/*estas lineas crean el efecto */
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
 }
-#Contenido1 #titulo{
+.Contenido1 .titulo{
     color:white;
     font-size: 14px;
     font-style: initial;
 }
-#Contenido1 #foto img{
+.Contenido1 .foto img{
     width: 100%;
     height: 30%;
 }
-#Contenido1 #descripcion{
+.Contenido1 .descripcion{
     color:#92BCE1;
     margin:2px;
     font-size: 12px;
 }
-#Contenido1 p{
+.Contenido1 p{
     margin:2px;
     font-size: 17px;
 
 }
+/*-----------------TERAPIAS---------------*/
+#tituloterapia{
+    width: 98%;
+    height: auto;
+    margin:10px;
+    float:left;
+    background:white;
+    border-radius: 5px;/*esta propiedad bordea la esquinas*/
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    /*sombra de la caja header*/
+    box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*/
+    -moz-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/;
+    -webkit-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/; 
+
+}
+
+#descripcionterapia{
+    width: 95%;
+    height: auto;
+    margin:10px;
+    padding:5px;
+    float:left;
+    background:white;
+    border-radius: 5px;/*esta propiedad bordea la esquinas*/
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    /*sombra de la caja header*/
+    box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*/
+    -moz-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/;
+    -webkit-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/; 
+}
+
+
+#SliderTerapias{
+    width: 95%;
+    height: 40%;
+    margin:10px;
+    padding:5px;
+    float:left;
+    border-radius: 5px;/*esta propiedad bordea la esquinas*/
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+#descripcionterapia img{
+    height: 150px;
+    margin-bottom: 0px;}
+#parrafo1 p{text-align: left;}
+#parrafo1{ 
+    text-align: left;
+    margin-top: -23px;
+    float:left;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 90%;
+    height: auto;
+    font-size: 14pt;    
+}
+/*-----------------------Quienes Somos---------------------*/
+#imgficha{
+    margin:10%;
+    
+}
+#fichaizq{
+    text-align: left;
+    width: 40%;
+    height: auto;
+    margin: 5%;
+    float:left;
+    
+}
+
+#fichader{
+    text-align: left;
+    width: 40%;
+    height: auto;
+    margin: 5%;
+    float:left;
+    
+}
+
+/*---------------CONTACTO----------*/
+.dos_column_left_small{
+	
+	width:30%;
+	float:left;	
+	padding:5% 0% 0% 5%;
+	text-align:left;
+        height: auto;
+}
+
+.info_contacto{	
+	height:50px;
+        width: 120%;       
+}
+.info_contacto img{
+	padding:10px;
+	width:40px;
+	height:40px;
+	float:left;	
+	
+}
+
+.info_contacto p{
+	color:#fff;
+        
+	font-size:15px;
+        text-align: center;
+        padding-top: 10px;
+	height:auto;             
+}
+
+.dos_column_right_big{	
+	width:65%;
+	float:left;
+	text-align:left;
+}
+
+form#formulario_contacto{
+	margin:40px 0px 40px 0px;
+	width:70%;
+	left:13%;
+	position:relative;
+	padding:10px;
+	background-color:#21619D;
+	box-shadow: 3px 3px 3px #92BCE1;
+	border:3px solid white;
+	border-radius: 10px;
+}
+
+form#formulario_contacto fieldset{
+	border:3px solid #002C67;
+	background-color:#92BCE1;
+	border-radius: 20px;
+	padding:0px 10px 10px 10px;
+}
+
+form#formulario_contacto legend{
+	background-color:#92BCE1;
+	border:3px solid #002C67;
+	padding: 5px 10px 5px 10px;
+	border-radius: 10px;
+	text-align:right;
+	text-shadow: 1px 1px 1px #696969;
+	font-weight:bold;
+	
+}
+
+form#formulario_contacto .inputText {
+	width:50%;
+	height:24px;
+	border:1px solid #cccccc;
+	padding:7px;
+	border:2px solid #002C67; 
+}
+
+form#formulario_contacto .inputText:focus:invalid, form#formulario_contacto .inputTextarea:focus:invalid{
+	border:3px solid red; 
+}
+
+form#formulario_contacto .inputText:valid, form#formulario_contacto .inputTextarea:valid{
+	border:3px solid green; 
+}
+
+form#formulario_contacto .inputTextarea {
+	width:90%;
+	height:250px;
+	border:1px solid #cccccc;
+	padding:7px;
+	resize: none; 
+	border:2px solid #002C67;
+}
+
+form#formulario_contacto label {
+	margin: 5px 0px 0px 0px;
+	font-size:14px;
+	line-height:22px;
+	font-weight:bold;
+	color:#002C67;
+	
+}
+form#formulario_contacto label span, .inf_requerida span{
+	color:red;
+}
+
+form#formulario_contacto .boton{
+	margin: 2px 20px 20px 2px;
+	font-size:12px;
+    font-weight:bold;
+    color:white;
+    background:#638cb5;
+    width:80px;
+    height:21px;
+    border-radius: 5px;
+	float:right;
+}
+
+form#formulario_contacto .inf_requerida {
+	font-size:11px;
+	margin:0 0 10px 0;
+	color:#002C67;
+	font-style:italic;
+}
+
+class="imgContacto"
+
+/*Validación formulario*/
+input:required {
+	border: 13px solid yellow;
+}
+
+img.img_correo{
+	margin:2%; 
+	width:96%;
+    border-radius: 5px;/*esta propiedad bordea la esquinas*/
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
 /*------FOOTER-----*/
 footer{
     width: 100%;
@@ -232,7 +456,7 @@ footer p{
 
 /*************************************************MEDIA QUERYS************************************/
 @media only screen and (min-width: 1380px){
-    #Contenido1{
+    .Contenido1{
     width: 25%;
     height: 40%;
     float:left;
@@ -244,10 +468,11 @@ footer p{
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     }
-    #contenido1 #foto img{height: 60%;}
+    #contenido1 .foto img{height: 60%;}
 
  footer{background:pink;}   
 }
+
 
 /**********************Tablet Portrait***************************/
 @media only screen and (min-width: 768px) and (max-width:959px){
@@ -266,11 +491,11 @@ footer p{
 }
     nav li a{font-size: 16px;}    
     #contenido1{height: 250px;}
-    #contenido1 #foto img{height: 50%;}
+    #contenido1 .foto img{height: 50%;}
     footer{background:darkorange;}
 }
 /**********************Mobile Portrait***************************/
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 557px) {
     header{width: 100%;height: auto;}
     #logotipo{height:150px;width: 94%;}
     #logotipo img{
@@ -287,22 +512,63 @@ footer p{
         width: 100%;
     }    
     nav li{        
-    display:inline;
-    
-    margin: 0px;
+    display:inline;    
+    margin: 0px;    
+}
+#parrafo1{
+    float:left;
+    margin:10%;
+    width: 80%;    
+    font-size: 12pt;
     
 }
     nav li a{font-size: 14px;}
-    #Contenido1{
+    .Contenido1{
     width: 80%;    
     margin-left: 12%;    
 }
-    #Contenido1 #descripcion{font-size: 18px; }
-    #contenido1 #foto img{height: 40%;}
+    .Contenido1 .descripcion{font-size: 18px; }
+    #contenido1 .foto img{height: 40%;}
+    
+    #descripcionterapia{width: 90%;}
+    
+    #descripcionterapia img{
+    width: 90%;}
+    
+ #fichaizq img{width: 50%;}
+ #fichader img{width: 50%;}
+#fichaizq{width: 80%;
+    margin: 10%;
+    
+}
+#fichader{
+    width: 80%;
+    margin: 10%;
+    
+}
+    
     footer{background:greenyellow;height: auto;}
+	
+	/*****CONTACTO*****/
+	.dos_column_left_small{
+		width:100%;	
+		padding:5% 0% 0% 0%;
+	}
+
+	.dos_column_right_big{	
+		width:100%;
+	}
+	
+	.info_contacto p{
+		text-align: left;        
+	}
+	
+	.info_contacto img{
+		margin-left:10%;
+	}
 }
 /**********************Mobile Landscape(tumbao)***************************/
-@media only screen and (min-width: 480px) and (max-width:767px){
+@media only screen and (min-width: 557px) and (max-width:822px){
     #menu{        
         float:left;
         margin-right: 20px;
@@ -319,64 +585,57 @@ footer p{
     
 }
     nav li a{font-size: 18px;}
-    #contenido1{height: 250px;}
-    #Contenido1 #descripcion{font-size: 10px; }
-    #contenido1 #foto img{height: 40%;}
-    footer{background:red;}
+    .contenido1{height: 250px;}
+    .Contenido1 .descripcion{font-size: 10px; }
+    .contenido1 .foto img{height: 40%;}
+    
+    #parrafo1{
+        
+        margin-top: -19px;
+    width: 80%;    
+    font-size: 12pt;    
 }
-/***********************Mobile Portrait 320px**************************/
-@media only screen and (max-width:420px){ 
+ #parrafo1{text-align: left;}
+    
+    footer{background:red;}
+	
+	/*****CONTACTO*****/
+	.dos_column_left_small{
+		width:100%;	
+		padding:5% 0% 0% 0%;
+	}
 
+	.dos_column_right_big{	
+		width:100%;
+	}
+	
+	.info_contacto p{
+		text-align: left;        
+	}
+	
+	.info_contacto img{
+		margin-left:10%;
+	}
+}
+
+
+
+
+/***********************Mobile Portrait 320px**************************/
+@media only screen and (max-width:420px){#descripcionterapia{width: 90%;}
+    
+    #descripcionterapia img{
+    width: 90%;}
+    
+    #fichaizq img{width: 70%;}
+ #fichader img{width: 70%;}
     footer{background:aqua;height: auto;}
     footer p{ color:#92BCE1;margin:10px;}
-    #contenido1 #foto img{height: 25%;}
+    #contenido1 .foto img{height: 25%;}
      nav li{display:list-item;padding-top:0px;}
 }
-/*-----------------------------------ESTILOS TERAPIAS----------------------*/
-#tituloterapia{
-    width: 98%;
-    height: 30px;
-    margin:10px;
-    float:left;
-    background:white;
-    border-radius: 5px;/*esta propiedad bordea la esquinas*/
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    /*sombra de la caja header*/
-    box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*/
-    -moz-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/;
-    -webkit-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/; 
 
-}
-#descripcionterapia{
-    width: 95%;
-    height: auto;
-    margin:10px;
-    padding:5px;
-    float:left;
-    background:white;
-    border-radius: 5px;/*esta propiedad bordea la esquinas*/
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    /*sombra de la caja header*/
-    box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*/
-    -moz-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/;
-    -webkit-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/; 
-}
-#SliderTerapias{
-    width: 95%;
-    height: auto;
-    margin:10px;
-    padding:5px;
-    float:left;
-    background:white;
-    border-radius: 5px;/*esta propiedad bordea la esquinas*/
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    /*sombra de la caja header*/
-    box-shadow: 0px 3px 5px #000;/*hacia derecha*//*hacia abajo*//*tamaño*//*color*/
-    -moz-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/;
-    -webkit-box-shadow: 0px/*hacia derecha*/3px/*hacia abajo*/5px/*tamaño*/#000/*color*/; 
-}
+
+
     
 

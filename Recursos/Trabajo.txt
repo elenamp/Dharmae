@@ -26,4 +26,8 @@ Martes 4 Febrero -> Cuenta en Hostinger creada. En proceso de asociar al dominio
 
 Viernes 7 Febrero -> Añadida superresolución e inicio de página de contacto y de terapia de Reiki. Seguimos con el menú desplegable (no queremos utilizar Javascript)
 
-Martes 10 Febrero -> Solucionado desplegable del menú y añadido formulario de contacto (Funciona en servidor, no en local). En proceso terminar la página de contacto y creación de la página de éxito y error. También queda por adaptar el menú desplegable a la versión móvil.
+Lunes 10 Febrero -> Solucionado desplegable del menú y añadido formulario de contacto (Funciona en servidor, no en local). En proceso terminar la página de contacto y creación de la página de éxito y error. También queda por adaptar el menú desplegable a la versión móvil.
+
+Martes 11 Febrero -> Añadida página de éxito y error (redirecciones correctas). Estaría bien informar al usuario de las redirecciones.
+
+Lunes 17 de Febrero -> Terminada página de contacto y recibidas nuevas fotos del cliente. Falta adaptar página de contactos a diferentes dispositivos, slider de las terapias, páginas de terapias, desplegable menú y página quienes somos.
