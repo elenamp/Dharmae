@@ -27,7 +27,7 @@
 				<div class="info_contacto">
                                     <img class="imgContacto" src="../img/icon/blue-balloon-icon.png" alt="Acupuntura Emocional"/>
 					<p>Telefono: </br> 605535534</p>
-				</div>							
+				</div>						
 			</div>
 			<div class="dos_column_right_big">
 				<!-- FORMULARIO DE CONTACTO con validación HTML de campos requeridos y de formato de email-->	
@@ -52,7 +52,9 @@
 					</fieldset>
 				</form>
 				<!-- FIN FORMULARIO DE CONTACTO --> 
-			</div>          
+			</div> 
+			<div class="mapa_google">
+			</div>         
         </div>
         
         <footer>

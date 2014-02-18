@@ -305,6 +305,16 @@ nav li a:hover{/*estas lineas crean el efecto */
 	height:50px;
         width: 120%;       
 }
+
+.mapa_google{	
+	height:50%;
+    width: 35%;  
+	background-color:red; 
+	float:left;    
+	margin-top: -350px;
+	margin-left: 5%;
+}
+
 .info_contacto img{
 	padding:10px;
 	width:40px;
@@ -556,7 +566,7 @@ footer p{
 	}
 
 	.dos_column_right_big{	
-		width:100%;
+		width:110%;
 	}
 	
 	.info_contacto p{
@@ -565,6 +575,21 @@ footer p{
 	
 	.info_contacto img{
 		margin-left:10%;
+	}
+	
+	.info_contacto{	
+		height:50px;
+	    width: 100%;       
+	}
+	
+	.mapa_google{	
+		height:30%;
+	    width: 80%;  
+		background-color:red; 
+		float:left;    
+		margin-top: 0px;
+		margin-bottom: 10%;
+		margin-left: 10%;
 	}
 }
 /**********************Mobile Landscape(tumbao)***************************/
@@ -615,6 +640,16 @@ footer p{
 	
 	.info_contacto img{
 		margin-left:10%;
+	}
+	
+	.mapa_google{	
+		height:50%;
+	    width: 80%;  
+		background-color:red; 
+		float:left;    
+		margin-top: 0px;
+		margin-bottom: 10%;
+		margin-left: 10%;
 	}
 }
 
