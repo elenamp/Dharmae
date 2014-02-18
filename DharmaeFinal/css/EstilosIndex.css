@@ -58,6 +58,13 @@ header{
 
 }
 
+.logofacebook{
+	height:40px;
+	width:40px;
+	float:right;
+	margin:120px 20px 0 0;	
+}
+
 /*--------- menu ----------*/
 #menu{
 
@@ -518,6 +525,13 @@ footer p{
 	.mapa_google{	
 		height:35%;
 		margin-top: -270px;
+	}
+	
+	.logofacebook{
+		height:40px;
+		width:40px;
+		float:right;
+		margin:120px 20px 0 0;	
 	}
 }
 /**********************Mobile Portrait***************************/
