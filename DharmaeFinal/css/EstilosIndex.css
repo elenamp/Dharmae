@@ -624,6 +624,74 @@ footer p{
 /***********************Mobile Portrait 320px**************************/
 @media only screen and (max-width:420px){#descripcionterapia{width: 90%;}
     
+	#menu{        
+        float:left;
+        margin-right: 0px;
+        padding-top:0px; 
+        height: auto;
+    }  
+    
+   #menu ul{
+        list-style:none;      
+    }
+ 
+ nav li a{
+    display: block;
+    position: relative;
+    min-width: 110px;
+    padding: 0 10px 0 40px;
+ 
+    color: #fdfdfd;
+    font: bold 12px/32px Arial, sans-serif;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px rgba(0,0,0, .35);
+ 
+    background: #002C67;
+    background: -moz-linear-gradient(top,#002C67 0%, #92BCE1 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#002C67), color-stop(100%,#92BCE1));
+    background: -webkit-linear-gradient(top,  #002C67 0%,#92BCE1 100%);
+    background: -o-linear-gradient(top,  #002C67 0%,#92BCE1 100%);
+    background: -ms-linear-gradient(top,  #002C67 0%,#92BCE1 100%);
+    background: linear-gradient(top,  #002C67 0%,#92BCE1 100%);
+ 
+    -webkit-box-shadow: inset 0px 1px 0px 0px rgba(255,255,255, .1), 0px 1px 0px 0px rgba(0,0,0, .1);
+    -moz-box-shadow: inset 0px 1px 0px 0px rgba(255,255,255, .1), 0px 1px 0px 0px rgba(0,0,0, .1);
+    box-shadow: inset 0px 1px 0px 0px rgba(255,255,255, .1), 0px 1px 0px 0px rgba(0,0,0, .1);
+    }
+    
+#menu ul li ul.children li a{	
+    padding: 0 0 0 20px;
+    color: #fdfdfd;
+    font: bold 10px/32px Arial, sans-serif;
+    text-shadow: 0px 1px 0px rgba(0,0,0, .35);
+ 
+    background: #002C67;
+    background: -moz-linear-gradient(top,#002C67 0%, #92BCE1 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#002C67), color-stop(100%,#92BCE1));
+    background: -webkit-linear-gradient(top,  #002C67 0%,#92BCE1 100%);
+    background: -o-linear-gradient(top,  #002C67 0%,#92BCE1 100%);
+    background: -ms-linear-gradient(top,  #002C67 0%,#92BCE1 100%);
+    background: linear-gradient(top,  #002C67 0%,#92BCE1 100%);
+ 
+    -webkit-box-shadow: inset 0px 1px 0px 0px rgba(255,255,255, .1), 0px 1px 0px 0px rgba(0,0,0, .1);
+    -moz-box-shadow: inset 0px 1px 0px 0px rgba(255,255,255, .1), 0px 1px 0px 0px rgba(0,0,0, .1);
+    box-shadow: inset 0px 1px 0px 0px rgba(255,255,255, .1), 0px 1px 0px 0px rgba(0,0,0, .1);
+}
+
+    .terapias:hover {
+         height: 185px;     
+    } 
+    
+    
+    ul.children{ 
+        max-height: 135px;       
+    }
+    
+    #menu ul li:hover ul{
+    overflow-y:auto;
+     overflow-x:hidden;
+     color: #92BCE1;
+    } 
     #descripcionterapia img{
     width: 90%;}
     
@@ -632,7 +700,6 @@ footer p{
     footer{background:aqua;height: auto;}
     footer p{ color:#92BCE1;margin:10px;}
     #contenido1 .foto img{height: 25%;}
-     nav li{display:list-item;padding-top:0px;}
 }
 
 
