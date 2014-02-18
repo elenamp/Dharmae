@@ -9,7 +9,7 @@ function cabecera(){
             <ul>
                 <li><a href="inicio.php">Inicio</a></li>  
 				<li><a href="quienessomos.php">Quiénes Somos</a></li>                      
-                <li><a href="#">Terapias ↓</a>
+                <li class="terapias"><a href="#">Terapias ↓</a>
                     <ul class="children">
                         <li><a href="paresmagneticos.php">Pares Magn&eacute;ticos</a></li>                        
                         <li><a href="acupunturaemocional.php">Acupuntura Emocional</a></li>
