@@ -8,6 +8,7 @@ function headTerapia($title){
     <!-- Slider CSS -->
 	<link rel="stylesheet" href="../css/flexslider.css" type="text/css" media="screen" />
     <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
+	<link rel="shortcut icon" href="../img/icon/web-icon.png">
     
   	<!-- jQuery -->
   	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
