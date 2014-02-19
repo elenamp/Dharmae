@@ -45,6 +45,21 @@ require_once("funciones/headTerapias.php");?>
 								<img src="../img/Terapias/Auriculoterapia/auriculoterapia1.jpg" alt="Imagen 1 auriculoterapia" />
 							</a>
 			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Auriculoterapia/auriculoterapia2.jpg" target="_blank">
+								<img src="../img/Terapias/Auriculoterapia/auriculoterapia2.jpg" alt="Imagen 2 auriculoterapia" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Auriculoterapia/auriculoterapia3.jpg" target="_blank">
+								<img src="../img/Terapias/Auriculoterapia/auriculoterapia3.jpg" alt="Imagen 3 auriculoterapia" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Auriculoterapia/auriculoterapia4.jpg" target="_blank">
+								<img src="../img/Terapias/Auriculoterapia/auriculoterapia4.jpg" alt="Imagen 4 auriculoterapia" />
+							</a>
+			  	    	</li>
 			          </ul>
 			        </div>
 			          

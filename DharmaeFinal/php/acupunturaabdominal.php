@@ -34,6 +34,11 @@ require_once("funciones/headTerapias.php");?>
   								<img src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal1.jpg" alt="Imagen 1 acupuntura abdominal" />
   							</a>
   			  	    	</li>
+  			            <li>
+  			  	    	    <a href="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal2.jpg" target="_blank">
+  								<img src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal2.jpg" alt="Imagen 2 acupuntura abdominal" />
+  							</a>
+  			  	    	</li>
 			          </ul>
 			        </div>
 			          
