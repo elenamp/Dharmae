@@ -36,6 +36,17 @@ function cabecera(){
 /******PIE DE PÁGINA DE LA PÁGINA WEB***********/
 function pieDePagina(){
 	?>
-	<p> © 2014 Luis "el del Luissenger" Studios Copyright :P. All Rights Reserved.</p>	
+	<p> © 2014 Luis "el del Luissenger" Studios Copyright :P. All Rights Reserved.</p>
+        
+
+<?php }
+function pieDePaginaInicio(){
+	?>
+	<p> © 2014 Luis "el del Luissenger" Studios Copyright :P. All Rights Reserved.</p>
+        <!-- inicio codigo contador -->       
+            <img style="border: 0px solid ; margin-top: 10px; display: inline;"  alt="contador de visitas" 
+	src="http://contador-de-visitas.com/hit.php?id=1951491&counter=42">        
+        <!-- fin codigo contador -->
+
 <?php }
 ?>

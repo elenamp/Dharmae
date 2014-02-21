@@ -4,7 +4,7 @@ function headTerapia($title){
 	?>
     <title><?=$title?></title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Slider CSS -->
 	<link rel="stylesheet" href="../css/flexslider.css" type="text/css" media="screen" />
     <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
