@@ -5,6 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<link rel="shortcut icon" href="../img/icon/web-icon.png">
         <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
         	    <!-- Slider CSS -->
 	  	<link rel="stylesheet" href="../css/flexslider.css" type="text/css" media="screen" />

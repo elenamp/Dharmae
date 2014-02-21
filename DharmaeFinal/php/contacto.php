@@ -9,6 +9,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width">
         <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
+		<link rel="shortcut icon" href="../img/icon/web-icon.png">
     </head>
     <body>
         <header>
@@ -27,7 +28,7 @@
 				<div class="info_contacto">
                                     <img class="imgContacto" src="../img/icon/blue-balloon-icon.png" alt="Acupuntura Emocional"/>
 					<p>Telefono: </br> 605535534</p>
-				</div>							
+				</div>						
 			</div>
 			<div class="dos_column_right_big">
 				<!-- FORMULARIO DE CONTACTO con validación HTML de campos requeridos y de formato de email-->	
@@ -52,7 +53,14 @@
 					</fieldset>
 				</form>
 				<!-- FIN FORMULARIO DE CONTACTO --> 
-			</div>          
+			</div> 
+			<div class="mapa_google">
+				<iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=211477744403777284504.0004f2ad2ea79615f982f&amp;ie=UTF8&amp;t=h&amp;z=17&amp;output=embed">
+                                
+				</iframe>
+				<br />
+				<small>Ver <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=211477744403777284504.0004f2ad2ea79615f982f&amp;ie=UTF8&amp;t=h&amp;z=17&amp;source=embed" target="_blank">Av de Saavedra y Fajardo, 100</a> en un mapa más grande</small>
+			</div>         
         </div>
         
         <footer>

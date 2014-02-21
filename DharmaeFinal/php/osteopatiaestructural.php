@@ -149,6 +149,21 @@ require_once("funciones/headTerapias.php");?>
 								<img src="../img/Terapias/Osteopatia/osteopatia7.jpg" alt="Imagen 7 osteopatía" />
 							</a>
 			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia8.jpg" target="_blank">
+								<img src="../img/Terapias/Osteopatia/osteopatia8.jpg" alt="Imagen 8 osteopatía" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia9.jpg" target="_blank">
+								<img src="../img/Terapias/Osteopatia/osteopatia9.jpg" alt="Imagen 9 osteopatía" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia10.jpg" target="_blank">
+								<img src="../img/Terapias/Osteopatia/osteopatia10.jpg" alt="Imagen 10 osteopatía" />
+							</a>
+			  	    	</li>
 			          </ul>
 			        </div>
 			          

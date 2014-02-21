@@ -31,3 +31,5 @@ Lunes 10 Febrero -> Solucionado desplegable del menú y añadido formulario de c
 Martes 11 Febrero -> Añadida página de éxito y error (redirecciones correctas). Estaría bien informar al usuario de las redirecciones.
 
 Lunes 17 de Febrero -> Terminada página de contacto y recibidas nuevas fotos del cliente. Falta adaptar página de contactos a diferentes dispositivos, slider de las terapias, páginas de terapias, desplegable menú y página quienes somos.
+
+Martes 18 de Ferbrero -> Añadidas terapias y slider de terapias, redistribución de carpetas de imágenes (Con rutas incluidas), añadido menú desplegable (funciona para versión móvil) y página quiénes somos. Problemas con adaptación a Internet Explorer (linea mágica). Convendría adaptarlo más porque hay fallos (inicio y slider). Falta añadir contador de visitas, mapa en contacto, adaptar del todo página de contactos, pequeños detalles de diseño, página de facebook y pasar la página por los validadores.
