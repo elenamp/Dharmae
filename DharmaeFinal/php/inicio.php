@@ -186,7 +186,7 @@
         </div>
         
         <footer>
-            <?php pieDePagina();?>
+            <?php pieDePaginaInicio();?>
         </footer>
     </body>
 </html>
