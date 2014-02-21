@@ -99,7 +99,7 @@
 		  	    	</li>
                     <li>
 						<a href="enfermeria.php">
-		  	    	    	<img src="../img/Terapias/Enfermeria/enfermeria1.jpeg" alt="Enfermeria"/>
+		  	    	    	<img src="../img/Terapias/Enfermeria/enfermeria1.jpg" alt="Enfermeria"/>
 						</a>
 						<p class="flex-caption">Enfermeria</p>
 		  	    	</li>

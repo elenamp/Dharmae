@@ -51,17 +51,17 @@ require_once("funciones/headTerapias.php");?>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <a href="../img/Terapias/AcupunturaEmocional/acupunturaemocional3.jpg" target="_blank">
-								<img src="../img/Terapias/AcupunturaEmocional/acupunturaemocional3.jpeg" alt="Imagen 3 acupuntura emocional" />
+								<img src="../img/Terapias/AcupunturaEmocional/acupunturaemocional3.jpg" alt="Imagen 3 acupuntura emocional" />
 							</a>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <a href="../img/Terapias/AcupunturaEmocional/acupunturaemocional4.jpg" target="_blank">
-								<img src="../img/Terapias/AcupunturaEmocional/acupunturaemocional4.jpeg" alt="Imagen 4 acupuntura emocional" />
+								<img src="../img/Terapias/AcupunturaEmocional/acupunturaemocional4.jpg" alt="Imagen 4 acupuntura emocional" />
 							</a>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <a href="../img/Terapias/AcupunturaEmocional/acupunturaemocional5.jpg" target="_blank">
-								<img src="../img/Terapias/AcupunturaEmocional/acupunturaemocional5.jpeg" alt="Imagen 5 acupuntura emocional" />
+								<img src="../img/Terapias/AcupunturaEmocional/acupunturaemocional5.jpg" alt="Imagen 5 acupuntura emocional" />
 							</a>
 			  	    	</li>
 			          </ul>

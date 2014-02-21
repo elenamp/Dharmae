@@ -50,6 +50,21 @@ require_once("funciones/headTerapias.php");?>
   								<img src="../img/Terapias/ParesMagneticos/paresmagneticos2.jpg" alt="Imagen 2 pares magnéticos" />
   							</a>
   			  	    	</li>
+  			            <li>
+  			  	    	    <a href="../img/Terapias/ParesMagneticos/paresmagneticos3.jpg" target="_blank">
+  								<img src="../img/Terapias/ParesMagneticos/paresmagneticos3.jpg" alt="Imagen 3 pares magnéticos" />
+  							</a>
+  			  	    	</li>
+  			            <li>
+  			  	    	    <a href="../img/Terapias/ParesMagneticos/paresmagneticos4.jpg" target="_blank">
+  								<img src="../img/Terapias/ParesMagneticos/paresmagneticos4.jpg" alt="Imagen 4 pares magnéticos" />
+  							</a>
+  			  	    	</li>
+  			            <li>
+  			  	    	    <a href="../img/Terapias/ParesMagneticos/paresmagneticos5.jpg" target="_blank">
+  								<img src="../img/Terapias/ParesMagneticos/paresmagneticos5.jpg" alt="Imagen 5 pares magnéticos" />
+  							</a>
+  			  	    	</li>
 			          </ul>
 			        </div>
 			          
