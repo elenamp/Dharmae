@@ -278,6 +278,7 @@ nav li a:hover{/*estas lineas crean el efecto */
 /*-----------------------Quienes Somos---------------------*/
 #imgficha{
     margin:10%;
+   
     
 }
 #fichaizq{
@@ -663,6 +664,7 @@ footer p{
 }
  #parrafo1{text-align: left;}
     
+ #imgficha{ width: 100%;}
     footer{background:red;}
 	
 	/*****CONTACTO*****/
