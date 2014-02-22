@@ -55,11 +55,12 @@
 				<!-- FIN FORMULARIO DE CONTACTO --> 
 			</div> 
 			<div class="mapa_google">
-				<iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=211477744403777284504.0004f2ad2ea79615f982f&amp;ie=UTF8&amp;t=h&amp;z=17&amp;output=embed">
+                                <small>Ver <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=211477744403777284504.0004f2ad2ea79615f982f&amp;ie=UTF8&amp;t=h&amp;z=17&amp;source=embed" target="_blank">Av de Saavedra y Fajardo, 100</a> en un mapa más grande</small>
+				<iframe width="100%" height="90%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=211477744403777284504.0004f2ad2ea79615f982f&amp;ie=UTF8&amp;t=h&amp;z=17&amp;output=embed">
                                 
 				</iframe>
 				<br />
-				<small>Ver <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=211477744403777284504.0004f2ad2ea79615f982f&amp;ie=UTF8&amp;t=h&amp;z=17&amp;source=embed" target="_blank">Av de Saavedra y Fajardo, 100</a> en un mapa más grande</small>
+				
 			</div>         
         </div>
         
