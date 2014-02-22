@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width">
         <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
 		<link type="text/css" rel="stylesheet" href="../css/contacto.css">
-		<meta http-equiv="refresh" content="10;URL=inicio.php" />
+		<meta http-equiv="refresh" content="5;URL=inicio.php" />
     </head>
     <body>
         <header>

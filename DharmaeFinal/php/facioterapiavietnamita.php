@@ -38,6 +38,11 @@ require_once("funciones/headTerapias.php");?>
 								<img src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita1.jpg" alt="Imagen 1 facioterapia vietmanita" />
 							</a>
 			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita2.jpg" target="_blank">
+								<img src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita2.jpg" alt="Imagen 2 facioterapia vietmanita" />
+							</a>
+			  	    	</li>
 			          </ul>
 			        </div>
 			          
