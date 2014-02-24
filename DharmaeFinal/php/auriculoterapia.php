@@ -60,6 +60,11 @@ require_once("funciones/headTerapias.php");?>
 								<img src="../img/Terapias/Auriculoterapia/auriculoterapia4.jpg" alt="Imagen 4 auriculoterapia" />
 							</a>
 			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Auriculoterapia/auriculoterapia5.jpg" target="_blank">
+								<img src="../img/Terapias/Auriculoterapia/auriculoterapia5.jpg" alt="Imagen 5 auriculoterapia" />
+							</a>
+			  	    	</li>
 			          </ul>
 			        </div>
 			          

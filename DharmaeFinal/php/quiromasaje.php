@@ -51,7 +51,7 @@ require_once("funciones/headTerapias.php");?>
     			  	    	</li>
     			            <li>
     			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje3.gif" target="_blank">
-    								<img src="../img/Terapias/Quiromasaje/quiromasaje3.gif" alt="Imagen 3 quiromasaje" />
+    								<img src="../img/Terapias/Quiromasaje/quiromasaje3.jpg" alt="Imagen 3 quiromasaje" />
     							</a>
     			  	    	</li>
     			            <li>
