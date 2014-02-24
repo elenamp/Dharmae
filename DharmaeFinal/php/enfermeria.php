@@ -2,7 +2,7 @@
 require_once("funciones/headTerapias.php");?>
 <html>
     <head>
-        <?php headTerapia("Auriculoterapia");?>
+        <?php headTerapia("Enfermería");?>
     </head>
     <body>
         <header>
@@ -32,7 +32,38 @@ require_once("funciones/headTerapias.php");?>
             </div>
             <div id="SliderTerapias">
 			        <div class="flexslider">
-			          
+			          <ul class="slides">
+			            <li>
+			  	    	    <a href="../img/Terapias/Enfermeria/enfermeria1.jpg" target="_blank">
+								<img src="../img/Terapias/Enfermeria/enfermeria1.jpg" alt="Imagen 1 enfermeria" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Enfermeria/enfermeria2.jpg" target="_blank">
+								<img src="../img/Terapias/Enfermeria/enfermeria2.jpg" alt="Imagen 2 enfermeria" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Enfermeria/enfermeria3.jpg" target="_blank">
+								<img src="../img/Terapias/Enfermeria/enfermeria3.jpg" alt="Imagen 3 enfermeria" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Enfermeria/enfermeria4.jpg" target="_blank">
+								<img src="../img/Terapias/Enfermeria/enfermeria4.jpg" alt="Imagen 4 enfermeria" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Enfermeria/enfermeria5.jpg" target="_blank">
+								<img src="../img/Terapias/Enfermeria/enfermeria5.jpg" alt="Imagen 5 enfermeria" />
+							</a>
+			  	    	</li>
+			            <li>
+			  	    	    <a href="../img/Terapias/Enfermeria/enfermeria6.jpg" target="_blank">
+								<img src="../img/Terapias/Enfermeria/enfermeria6.jpg" alt="Imagen 6 enfermeria" />
+							</a>
+			  	    	</li>
+			          </ul>
 			        </div>
 			          
 	        </div>
