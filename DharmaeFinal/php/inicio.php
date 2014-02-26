@@ -1,8 +1,9 @@
 <?php require_once("funciones/headerAndFooter.php");?>
-<html>
+<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">-->
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>Dharmae Enfermeria y Terapias</title>
-        <meta charset="UTF-8">
+        <!---<meta charset="UTF-8">-->
         <meta name="viewport" content="width=device-width">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<link rel="shortcut icon" href="../img/icon/web-icon.png">
@@ -13,7 +14,7 @@
 	      <script type="text/javascript" src="../js/jquery-1.7.1.min.js"></script>
 
 	      <!-- FlexSlider -->
-	      <script src="../js/jquery.flexslider.js"></script>
+	      <script type="text/javascript" src="../js/jquery.flexslider.js"></script>
 
 	      <script type="text/javascript">
 	        (function(){

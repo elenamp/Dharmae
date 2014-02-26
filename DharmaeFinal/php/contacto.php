@@ -3,7 +3,7 @@
 	require_once("funciones/sendEmail.php");
 	enviarEmail();
 ?>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>Contacto</title>
         <meta charset="UTF-8">

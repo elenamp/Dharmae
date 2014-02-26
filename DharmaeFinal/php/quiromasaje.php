@@ -1,6 +1,6 @@
 <?php require_once("funciones/headerAndFooter.php");
 require_once("funciones/headTerapias.php");?>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <?php headTerapia("Quiromasaje");?>
     </head>
@@ -13,7 +13,7 @@ require_once("funciones/headTerapias.php");?>
 
             <div id="descripcionterapia">
 
-                <img id="logoterapia" src="../img/Terapias/Quiromasaje/quiromasajelogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/Quiromasaje/quiromasajelogo.png" alt="Quiromasaje Logo"/>             
                 <div id="parrafo1">
                     <p>
                         ¿A quién no le agrada un buen masaje? Tómatelo como un capricho, porque oye, 

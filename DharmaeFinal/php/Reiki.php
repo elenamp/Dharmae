@@ -1,6 +1,6 @@
 <?php require_once("funciones/headerAndFooter.php");
 require_once("funciones/headTerapias.php");?>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
 		<?php headTerapia("Reiki");?>
     </head>
@@ -11,7 +11,7 @@ require_once("funciones/headTerapias.php");?>
         <div id="cuerpo"> 
             
             <div id="descripcionterapia">
-                  <img id="logoterapia" src="../img/Terapias/Reiki/reikilogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/Reiki/reikilogo.png" alt="Logo Reiki"/>             
 	              <div id="parrafo1">
 	  	            <p >Partimos del concepto de que el ser humano es todo energía. 
 	  	                El Reiki es un conocido sistema de relajación  y control del dolor, 

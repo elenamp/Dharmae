@@ -4,7 +4,7 @@ function cabecera(){
 	?>
     <div id="cabecera">
         <div id="logotipo"><a href="inicio.php"><img src="../img/logo.jpg" alt="Logo Dharmae"></a></div>
-		<a href="http://www.facebook.com/terapiasdharmae" target="_blank"><img class="logofacebook" src="../img/icon/fb-icon.png" ></a>
+		<a href="http://www.facebook.com/terapiasdharmae" target="_blank"><img class="logofacebook" src="../img/icon/fb-icon.png" alt="Facebook" ></a>
         <div id="menu">
         <nav>
             <ul>

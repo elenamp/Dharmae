@@ -1,8 +1,8 @@
 <?php require_once("funciones/headerAndFooter.php"); ?>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>¿Quiénes somos?</title>
-        <meta charset="UTF-8">
+        <!--<meta charset="UTF-8">-->
         <meta name="viewport" content="width=device-width">
         <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
 		<link rel="shortcut icon" href="../img/icon/web-icon.png">
@@ -15,7 +15,7 @@
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/quienessomos.png"/>             
+                <img id="logoterapia" src="../img/quienessomos.png" alt="Quienes Somos"/>             
                 <div id="parrafo1">
                     
                     <h3 ALIGN="center"><strong>¡Bienvenidos a Enfermería y Terapias Dharmae!</strong></h3>
@@ -40,29 +40,30 @@
                 </div> 
                 <div id="fichaizq">
                    
-                    <img id="imgficha" src="../img/logoyessi.png">
+                    <img id="imgficha" src="../img/logoyessi.png" alt="logoyessi">
                     <p>
-                        <br> Diplomada en Enfermería por la Universidad de Salamanca.<br>
-                    <li>Osteópata Estructural.</li>
-                    <li>Quiromasajista.</li>
-                    <li>Especialista en Homeopatía.</li>
-                    <li>Terapeuta de Drenaje Linfático.</li>
-                    <li>Terapeuta de Pares Magnéticos.</li>
-                    <li>Terapeuta de Reiki (primer nivel)</li>
-                    <li>Kinesiotapping.</li>
-                    </p>		
+                        <br> Diplomada en Enfermería por la Universidad de Salamanca.</p>
+                    <ul>
+                        <li>Osteópata Estructural.</li>
+                        <li>Quiromasajista.</li>
+                        <li>Especialista en Homeopatía.</li>
+                        <li>Terapeuta de Drenaje Linfático.</li>
+                        <li>Terapeuta de Pares Magnéticos.</li>
+                        <li>Terapeuta de Reiki (primer nivel)</li>
+                        <li>Kinesiotapping.</li>
+                    </ul>		
                 </div> 
                 <div id="fichader">
-                    <img id="imgficha" src="../img/logomarialuisa.png">
+                    <img id="imgficha" src="../img/logomarialuisa.png" alt="logomarialuisa">
                     <p>
-                        <br>Diplomada en Enfermería por la Universidad de Salamanca.<br>
-                    <li>Terapeuta de Acupuntura Emocional y Abdominal.</li>
-                    <li>Terapeuta de Auriculoterapia.</li>
-                    <li>Terapeuta de Facioterapia Vietnamita.</li>
-                    <li>Terapeuta de Pares Magnéticos.</li>
-                    <li>Terapeuta de Reiki (primer nivel).</li>
-
-                    </p>
+                        <br>Diplomada en Enfermería por la Universidad de Salamanca. </p>
+                    <ul>
+                        <li>Terapeuta de Acupuntura Emocional y Abdominal.</li>
+                        <li>Terapeuta de Auriculoterapia.</li>
+                        <li>Terapeuta de Facioterapia Vietnamita.</li>
+                        <li>Terapeuta de Pares Magnéticos.</li>
+                        <li>Terapeuta de Reiki (primer nivel).</li>
+                    </ul>
                 </div>  
             </div>
         </div>
