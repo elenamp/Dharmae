@@ -35,9 +35,8 @@ function cabecera(){
 /******PIE DE PÁGINA DE LA PÁGINA WEB***********/
 function pieDePagina(){
 	?>
-	<p> © Copyright 2014 Dharmae. Dirección:
-C/Saavedra y Fajardo Nº100 2ºB (Salamanca). E-mail:
-osteopatia-acupuntura@hotmail.com. Telefono:
+	<p> © Copyright 2014 Dharmae. E-mail:
+<a href="mailto:osteopatia-acupuntura@hotmail.com">osteopatia-acupuntura@hotmail.com</a>. Teléfono:
 605535534 </p>
         
 
