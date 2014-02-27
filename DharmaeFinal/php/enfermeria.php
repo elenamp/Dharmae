@@ -36,32 +36,32 @@ require_once("funciones/headTerapias.php");?>
 			          <ul class="slides">
 			            <li>
 			  	    	    <a href="../img/Terapias/Enfermeria/enfermeria1.jpg" target="_blank">
-								<img src="../img/Terapias/Enfermeria/enfermeria1.jpg" alt="Imagen 1 enfermeria" />
+								<img style="max-height: 200px;" src="../img/Terapias/Enfermeria/enfermeria1.jpg" alt="Imagen 1 enfermeria" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Enfermeria/enfermeria2.jpg" target="_blank">
-								<img src="../img/Terapias/Enfermeria/enfermeria2.jpg" alt="Imagen 2 enfermeria" />
+								<img style="max-height: 200px;" src="../img/Terapias/Enfermeria/enfermeria2.jpg" alt="Imagen 2 enfermeria" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Enfermeria/enfermeria3.jpg" target="_blank">
-								<img src="../img/Terapias/Enfermeria/enfermeria3.jpg" alt="Imagen 3 enfermeria" />
+								<img style="max-height: 200px;" src="../img/Terapias/Enfermeria/enfermeria3.jpg" alt="Imagen 3 enfermeria" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Enfermeria/enfermeria4.jpg" target="_blank">
-								<img src="../img/Terapias/Enfermeria/enfermeria4.jpg" alt="Imagen 4 enfermeria" />
+								<img style="max-height: 200px;" src="../img/Terapias/Enfermeria/enfermeria4.jpg" alt="Imagen 4 enfermeria" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Enfermeria/enfermeria5.jpg" target="_blank">
-								<img src="../img/Terapias/Enfermeria/enfermeria5.jpg" alt="Imagen 5 enfermeria" />
+								<img style="max-height: 200px;" src="../img/Terapias/Enfermeria/enfermeria5.jpg" alt="Imagen 5 enfermeria" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Enfermeria/enfermeria6.jpg" target="_blank">
-								<img src="../img/Terapias/Enfermeria/enfermeria6.jpg" alt="Imagen 6 enfermeria" />
+								<img style="max-height: 200px;" src="../img/Terapias/Enfermeria/enfermeria6.jpg" alt="Imagen 6 enfermeria" />
 							</a>
 			  	    	</li>
 			          </ul>

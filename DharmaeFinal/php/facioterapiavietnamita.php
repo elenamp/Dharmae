@@ -35,27 +35,27 @@ require_once("funciones/headTerapias.php");?>
 			          <ul class="slides">
 			            <li>
 			  	    	    <a href="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita1.jpg" target="_blank">
-								<img src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita1.jpg" alt="Imagen 1 facioterapia vietmanita" />
+								<img style="max-height: 200px;" src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita1.jpg" alt="Imagen 1 facioterapia vietmanita" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita2.jpg" target="_blank">
-								<img src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita2.jpg" alt="Imagen 2 facioterapia vietmanita" />
+								<img style="max-height: 200px;" src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita2.jpg" alt="Imagen 2 facioterapia vietmanita" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita3.jpg" target="_blank">
-								<img src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita3.jpg" alt="Imagen 3 facioterapia vietmanita" />
+								<img style="max-height: 200px;" src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita3.jpg" alt="Imagen 3 facioterapia vietmanita" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita4.jpg" target="_blank">
-								<img src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita4.jpg" alt="Imagen 4 facioterapia vietmanita" />
+								<img style="max-height: 200px;" src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita4.jpg" alt="Imagen 4 facioterapia vietmanita" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita5.jpg" target="_blank">
-								<img src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita5.jpg" alt="Imagen 5 facioterapia vietmanita" />
+								<img style="max-height: 200px;" src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamita5.jpg" alt="Imagen 5 facioterapia vietmanita" />
 							</a>
 			  	    	</li>
 			          </ul>
