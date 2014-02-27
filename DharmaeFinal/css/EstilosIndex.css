@@ -492,8 +492,7 @@ footer p{
     .Contenido1 .descripcion{    color:#92BCE1;    margin:2px;   height: 10%;    font-size: 12px;}
     Contenido1 .descripcion{height:auto;}
     
-
- footer{background:pink;}   
+   
 }
 /***********************Portrait 1288px**************************/
 @media only screen and (max-width:1288px) {
@@ -516,7 +515,7 @@ footer p{
 }
 .Contenido1 .descripcion{    color:#92BCE1;    margin:2px;   height: 10%;    font-size: 12px;}
 .Contenido1 p{    margin:2px;    font-size: 17px;}
-footer{background:#FFF;}
+
 }
 
 /**********************Tablet Portrait***************************/
@@ -557,7 +556,7 @@ footer{background:#FFF;}
     #descripcionterapia{
     width: 96%;}
     
-    footer{background:darkorange;}
+    
 	
 	/*****CONTACTO*****/
 	form#formulario_contacto .inputTextarea {
@@ -640,7 +639,7 @@ footer{background:#FFF;}
     
 }
     
-    footer{background:greenyellow;height: auto;}
+    footer{height: auto;}
 	
 	/*****CONTACTO*****/
 	.dos_column_left_small{
@@ -726,7 +725,7 @@ footer{background:#FFF;}
     
  #imgficha{ width: 100%;}
  
-    footer{background:red;}
+    
 	
 	/*****CONTACTO*****/
 	.dos_column_left_small{
@@ -759,7 +758,7 @@ footer{background:#FFF;}
 	}
 }
 
-
+footer{height: auto;}
 
 
 /***********************Mobile Portrait 420px**************************/
@@ -849,12 +848,8 @@ footer{background:#FFF;}
     #fichaizq img{width: 70%;}
  #fichader img{width: 70%;}
   /*-----------------footer---------------*/
-    footer{background:aqua;height: auto;}
+    footer{height: auto;}
     footer p{ color:#92BCE1;margin:10px;}
-    
-    
-    
-	
 	/*****CONTACTO*****/	
 	form#formulario_contacto .inputTextarea {
 		height:100px;

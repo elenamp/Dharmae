@@ -36,7 +36,10 @@ function cabecera(){
 /******PIE DE PÁGINA DE LA PÁGINA WEB***********/
 function pieDePagina(){
 	?>
-	<p> © 2014 DAM Studios Copyright. All Rights Reserved.</p>
+	<p> © Copyright 2014 Dharmae. Dirección:
+C/Saavedra y Fajardo Nº100 2ºB (Salamanca). E-mail:
+osteopatia-acupuntura@hotmail.com. Telefono:
+605535534 </p>
         
 
 <?php }
