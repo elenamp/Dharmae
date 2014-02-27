@@ -35,22 +35,22 @@ require_once("funciones/headTerapias.php");?>
 			          <ul class="slides">
 			            <li>
 			  	    	    <a href="../img/Terapias/DrenajeLinfatico/drenajelinfatico1.jpg" target="_blank">
-								<img src="../img/Terapias/DrenajeLinfatico/drenajelinfatico1.jpg" alt="Imagen 1 drenaje linfático" />
+								<img style="max-height: 200px;" src="../img/Terapias/DrenajeLinfatico/drenajelinfatico1.jpg" alt="Imagen 1 drenaje linfático" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/DrenajeLinfatico/drenajelinfatico2.jpg" target="_blank">
-								<img src="../img/Terapias/DrenajeLinfatico/drenajelinfatico2.jpg" alt="Imagen 2 drenaje linfático" />
+								<img style="max-height: 200px;" src="../img/Terapias/DrenajeLinfatico/drenajelinfatico2.jpg" alt="Imagen 2 drenaje linfático" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/DrenajeLinfatico/drenajelinfatico3.jpg" target="_blank">
-								<img src="../img/Terapias/DrenajeLinfatico/drenajelinfatico3.jpg" alt="Imagen 3 drenaje linfático" />
+								<img style="max-height: 200px;" src="../img/Terapias/DrenajeLinfatico/drenajelinfatico3.jpg" alt="Imagen 3 drenaje linfático" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/DrenajeLinfatico/drenajelinfatico4.jpg" target="_blank">
-								<img src="../img/Terapias/DrenajeLinfatico/drenajelinfatico4.jpg" alt="Imagen 4 drenaje linfático" />
+								<img style="max-height: 200px;" src="../img/Terapias/DrenajeLinfatico/drenajelinfatico4.jpg" alt="Imagen 4 drenaje linfático" />
 							</a>
 			  	    	</li>
 			          </ul>

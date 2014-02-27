@@ -33,22 +33,22 @@ require_once("funciones/headTerapias.php");?>
 			          <ul class="slides">
 			            <li>
 			  	    	    <a href="../img/Terapias/Homeopatia/homeopatia1.jpg" target="_blank">
-								<img src="../img/Terapias/Homeopatia/homeopatia1.jpg" alt="Imagen 1 homeopatia" />
+								<img style="max-height: 200px;" src="../img/Terapias/Homeopatia/homeopatia1.jpg" alt="Imagen 1 homeopatia" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Homeopatia/homeopatia2.jpg" target="_blank">
-								<img src="../img/Terapias/Homeopatia/homeopatia2.jpg" alt="Imagen 2 homeopatia" />
+								<img style="max-height: 200px;" src="../img/Terapias/Homeopatia/homeopatia2.jpg" alt="Imagen 2 homeopatia" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Homeopatia/homeopatia3.jpg" target="_blank">
-								<img src="../img/Terapias/Homeopatia/homeopatia3.jpg" alt="Imagen 3 homeopatia" />
+								<img style="max-height: 200px;" src="../img/Terapias/Homeopatia/homeopatia3.jpg" alt="Imagen 3 homeopatia" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Homeopatia/homeopatia4.jpg" target="_blank">
-								<img src="../img/Terapias/Homeopatia/homeopatia4.jpg" alt="Imagen 4 homeopatia" />
+								<img style="max-height: 200px;" src="../img/Terapias/Homeopatia/homeopatia4.jpg" alt="Imagen 4 homeopatia" />
 							</a>
 			  	    	</li>
 			          </ul>

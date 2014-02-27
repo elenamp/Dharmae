@@ -41,32 +41,32 @@ require_once("funciones/headTerapias.php");?>
 			          <ul class="slides">
     			            <li>
     			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje1.jpg" target="_blank">
-    								<img src="../img/Terapias/Quiromasaje/quiromasaje1.jpg" alt="Imagen 1 quiromasaje" />
+    								<img style="max-height: 200px;" src="../img/Terapias/Quiromasaje/quiromasaje1.jpg" alt="Imagen 1 quiromasaje" />
     							</a>
     			  	    	</li>
     			            <li>
     			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje2.jpg" target="_blank">
-    								<img src="../img/Terapias/Quiromasaje/quiromasaje2.jpg" alt="Imagen 2 quiromasaje" />
+    								<img style="max-height: 200px;" src="../img/Terapias/Quiromasaje/quiromasaje2.jpg" alt="Imagen 2 quiromasaje" />
     							</a>
     			  	    	</li>
     			            <li>
     			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje3.gif" target="_blank">
-    								<img src="../img/Terapias/Quiromasaje/quiromasaje3.jpg" alt="Imagen 3 quiromasaje" />
+    								<img style="max-height: 200px;" src="../img/Terapias/Quiromasaje/quiromasaje3.jpg" alt="Imagen 3 quiromasaje" />
     							</a>
     			  	    	</li>
     			            <li>
     			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje4.jpg" target="_blank">
-    								<img src="../img/Terapias/Quiromasaje/quiromasaje4.jpg" alt="Imagen 4 quiromasaje" />
+    								<img style="max-height: 200px;" src="../img/Terapias/Quiromasaje/quiromasaje4.jpg" alt="Imagen 4 quiromasaje" />
     							</a>
     			  	    	</li>
     			            <li>
     			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje5.jpg" target="_blank">
-    								<img src="../img/Terapias/Quiromasaje/quiromasaje5.jpg" alt="Imagen 5 quiromasaje" />
+    								<img style="max-height: 200px;" src="../img/Terapias/Quiromasaje/quiromasaje5.jpg" alt="Imagen 5 quiromasaje" />
     							</a>
     			  	    	</li>
     			            <li>
     			  	    	    <a href="../img/Terapias/Quiromasaje/quiromasaje6.jpg" target="_blank">
-    								<img src="../img/Terapias/Quiromasaje/quiromasaje6.jpg" alt="Imagen 6 quiromasaje" />
+    								<img style="max-height: 200px;" src="../img/Terapias/Quiromasaje/quiromasaje6.jpg" alt="Imagen 6 quiromasaje" />
     							</a>
     			  	    	</li>
 			          </ul>
