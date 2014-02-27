@@ -35,22 +35,22 @@ require_once("funciones/headTerapias.php");?>
 			          <ul class="slides">
 			            <li>
 			  	    	    <a href="../img/Terapias/Reiki/reiki1.jpg" target="_blank">
-								<img src="../img/Terapias/Reiki/reiki1.jpg" alt="Imagen 1 reiki" />
+								<img style="max-height: 200px;" src="../img/Terapias/Reiki/reiki1.jpg" alt="Imagen 1 reiki" />
 							</a>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <a href="../img/Terapias/Reiki/reiki2.jpg" target="_blank">
-								<img src="../img/Terapias/Reiki/reiki2.jpg" alt="Imagen 2 reiki" />
+								<img style="max-height: 200px;" src="../img/Terapias/Reiki/reiki2.jpg" alt="Imagen 2 reiki" />
 							</a>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <a href="../img/Terapias/Reiki/reiki3.jpg" target="_blank">
-								<img src="../img/Terapias/Reiki/reiki3.jpg" alt="Imagen 3 reiki" />
+								<img style="max-height: 200px;" src="../img/Terapias/Reiki/reiki3.jpg" alt="Imagen 3 reiki" />
 							</a>
 			  	    	</li>
 			  	    	<li>
 			  	    	    <a href="../img/Terapias/Reiki/reiki4.jpg" target="_blank">
-								<img src="../img/Terapias/Reiki/reiki4.jpg" alt="Imagen 4 reiki" />
+								<img style="max-height: 200px;" src="../img/Terapias/Reiki/reiki4.jpg" alt="Imagen 4 reiki" />
 							</a>
 			  	    	</li>
 			          </ul>

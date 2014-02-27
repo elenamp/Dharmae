@@ -32,14 +32,16 @@ function cabecera(){
     </div>
 	<?php
 }
-
 /******PIE DE PÁGINA DE LA PÁGINA WEB***********/
 function pieDePagina(){
 	?>
-	<p> © 2014 DAM Studios Copyright. All Rights Reserved.</p>
+	<p> © Copyright 2014 Dharmae. E-mail:
+<a href="mailto:osteopatia-acupuntura@hotmail.com">osteopatia-acupuntura@hotmail.com</a>. Teléfono:
+605535534 </p>
         
 
 <?php }
+
 function pieDePaginaInicio(){
 	pieDePagina();
 	?>

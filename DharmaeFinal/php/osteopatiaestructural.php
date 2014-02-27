@@ -122,52 +122,52 @@ require_once("funciones/headTerapias.php");?>
 			          <ul class="slides">
 			            <li>
 			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia1.jpg" target="_blank">
-								<img src="../img/Terapias/Osteopatia/osteopatia1.jpg" alt="Imagen 1 osteopatía" />
+								<img style="max-height: 200px;" src="../img/Terapias/Osteopatia/osteopatia1.jpg" alt="Imagen 1 osteopatía" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia2.jpg" target="_blank">
-								<img src="../img/Terapias/Osteopatia/osteopatia2.jpg" alt="Imagen 2 osteopatía" />
+								<img style="max-height: 200px;" src="../img/Terapias/Osteopatia/osteopatia2.jpg" alt="Imagen 2 osteopatía" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia3.jpg" target="_blank">
-								<img src="../img/Terapias/Osteopatia/osteopatia3.jpg" alt="Imagen 3 osteopatía" />
+								<img style="max-height: 200px;" src="../img/Terapias/Osteopatia/osteopatia3.jpg" alt="Imagen 3 osteopatía" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia4.jpg" target="_blank">
-								<img src="../img/Terapias/Osteopatia/osteopatia4.jpg" alt="Imagen 4 osteopatía" />
+								<img style="max-height: 200px;" src="../img/Terapias/Osteopatia/osteopatia4.jpg" alt="Imagen 4 osteopatía" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia5.jpg" target="_blank">
-								<img src="../img/Terapias/Osteopatia/osteopatia5.jpg" alt="Imagen 5 osteopatía" />
+								<img style="max-height: 200px;" src="../img/Terapias/Osteopatia/osteopatia5.jpg" alt="Imagen 5 osteopatía" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia6.jpg" target="_blank">
-								<img src="../img/Terapias/Osteopatia/osteopatia6.jpg" alt="Imagen 6 osteopatía" />
+								<img style="max-height: 200px;" src="../img/Terapias/Osteopatia/osteopatia6.jpg" alt="Imagen 6 osteopatía" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia7.jpg" target="_blank">
-								<img src="../img/Terapias/Osteopatia/osteopatia7.jpg" alt="Imagen 7 osteopatía" />
+								<img style="max-height: 200px;" src="../img/Terapias/Osteopatia/osteopatia7.jpg" alt="Imagen 7 osteopatía" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia8.jpg" target="_blank">
-								<img src="../img/Terapias/Osteopatia/osteopatia8.jpg" alt="Imagen 8 osteopatía" />
+								<img style="max-height: 200px;" src="../img/Terapias/Osteopatia/osteopatia8.jpg" alt="Imagen 8 osteopatía" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia9.jpg" target="_blank">
-								<img src="../img/Terapias/Osteopatia/osteopatia9.jpg" alt="Imagen 9 osteopatía" />
+								<img style="max-height: 200px;" src="../img/Terapias/Osteopatia/osteopatia9.jpg" alt="Imagen 9 osteopatía" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Osteopatia/osteopatia10.jpg" target="_blank">
-								<img src="../img/Terapias/Osteopatia/osteopatia10.jpg" alt="Imagen 10 osteopatía" />
+								<img style="max-height: 200px;" src="../img/Terapias/Osteopatia/osteopatia10.jpg" alt="Imagen 10 osteopatía" />
 							</a>
 			  	    	</li>
 			          </ul>

@@ -3,6 +3,7 @@
     <head>
         <title>¿Quiénes somos?</title>
         <meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width">
         <link type="text/css" rel="stylesheet" href="../css/EstilosIndex.css">
 		<link rel="shortcut icon" href="../img/icon/web-icon.png">
     </head>

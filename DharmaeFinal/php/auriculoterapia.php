@@ -42,27 +42,27 @@ require_once("funciones/headTerapias.php");?>
 			          <ul class="slides">
 			            <li>
 			  	    	    <a href="../img/Terapias/Auriculoterapia/auriculoterapia1.jpg" target="_blank">
-								<img src="../img/Terapias/Auriculoterapia/auriculoterapia1.jpg" alt="Imagen 1 auriculoterapia" />
+								<img style="max-height: 200px;" src="../img/Terapias/Auriculoterapia/auriculoterapia1.jpg" alt="Imagen 1 auriculoterapia" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Auriculoterapia/auriculoterapia2.jpg" target="_blank">
-								<img src="../img/Terapias/Auriculoterapia/auriculoterapia2.jpg" alt="Imagen 2 auriculoterapia" />
+								<img style="max-height: 200px;" src="../img/Terapias/Auriculoterapia/auriculoterapia2.jpg" alt="Imagen 2 auriculoterapia" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Auriculoterapia/auriculoterapia3.jpg" target="_blank">
-								<img src="../img/Terapias/Auriculoterapia/auriculoterapia3.jpg" alt="Imagen 3 auriculoterapia" />
+								<img style="max-height: 200px;" src="../img/Terapias/Auriculoterapia/auriculoterapia3.jpg" alt="Imagen 3 auriculoterapia" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Auriculoterapia/auriculoterapia4.jpg" target="_blank">
-								<img src="../img/Terapias/Auriculoterapia/auriculoterapia4.jpg" alt="Imagen 4 auriculoterapia" />
+								<img style="max-height: 200px;" src="../img/Terapias/Auriculoterapia/auriculoterapia4.jpg" alt="Imagen 4 auriculoterapia" />
 							</a>
 			  	    	</li>
 			            <li>
 			  	    	    <a href="../img/Terapias/Auriculoterapia/auriculoterapia5.jpg" target="_blank">
-								<img src="../img/Terapias/Auriculoterapia/auriculoterapia5.jpg" alt="Imagen 5 auriculoterapia" />
+								<img style="max-height: 200px;" src="../img/Terapias/Auriculoterapia/auriculoterapia5.jpg" alt="Imagen 5 auriculoterapia" />
 							</a>
 			  	    	</li>
 			          </ul>

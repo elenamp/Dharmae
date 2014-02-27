@@ -32,22 +32,22 @@ require_once("funciones/headTerapias.php");?>
 			          <ul class="slides">
   			            <li>
   			  	    	    <a href="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal1.jpg" target="_blank">
-  								<img src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal1.jpg" alt="Imagen 1 acupuntura abdominal" />
+  								<img style="max-height: 200px;" src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal1.jpg" alt="Imagen 1 acupuntura abdominal" />
   							</a>
   			  	    	</li>
   			            <li>
   			  	    	    <a href="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal2.jpg" target="_blank">
-  								<img src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal2.jpg" alt="Imagen 2 acupuntura abdominal" />
+  								<img style="max-height: 200px;" src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal2.jpg" alt="Imagen 2 acupuntura abdominal" />
   							</a>
   			  	    	</li>
   			            <li>
   			  	    	    <a href="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal3.jpg" target="_blank">
-  								<img src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal3.jpg" alt="Imagen 3 acupuntura abdominal" />
+  								<img style="max-height: 200px;" src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal3.jpg" alt="Imagen 3 acupuntura abdominal" />
   							</a>
   			  	    	</li>
   			            <li>
   			  	    	    <a href="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal4.jpg" target="_blank">
-  								<img src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal4.jpg" alt="Imagen 4 acupuntura abdominal" />
+  								<img style="max-height: 200px;" src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominal4.jpg" alt="Imagen 4 acupuntura abdominal" />
   							</a>
   			  	    	</li>
 			          </ul>
