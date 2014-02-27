@@ -1,6 +1,6 @@
 <?php require_once("funciones/headerAndFooter.php");
 require_once("funciones/headTerapias.php");?>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <?php headTerapia("Drenaje Linfático");?>
     </head>
@@ -12,7 +12,7 @@ require_once("funciones/headTerapias.php");?>
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/Terapias/DrenajeLinfatico/drenajelinfaticologo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/DrenajeLinfatico/drenajelinfaticologo.png" alt="Drenaje Linfatico Logo"/>             
                 <div id="parrafo1">
                     <p>Es una relajante y efectiva técnica que actúa directamente sobre nuestro sistema linfático, 
                         que es el encargado de ‘depurar’ la sangre y eliminar toxinas.<br>

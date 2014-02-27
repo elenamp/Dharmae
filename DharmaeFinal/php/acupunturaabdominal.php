@@ -1,6 +1,6 @@
 <?php require_once("funciones/headerAndFooter.php");
 require_once("funciones/headTerapias.php");?>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <?php headTerapia("Acupuntura Abdominal");?>
     </head>
@@ -12,17 +12,18 @@ require_once("funciones/headTerapias.php");?>
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominallogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/AcupunturaAbdominal/acupunturaabdominallogo.png" alt="Acupuntura Abdominal Logo"/>             
                 <div id="parrafo1" >
                     <p>
                         Es un tipo de acupuntura zonal, en la que se puntura en la zona del abdomen, 
                         siendo esta una zona casi indolora y con efectos muy  inmediatos en el tratamiento.
                         <br><br>
-                        Las patologías en las que pueden estar indicadas sobre todo son musculotendinosas:
-                    <li>Ciáticas, dolor cervical, epicondilitis (codo de tenista), lumbalgia, tortícolis, 
-                        síndrome de túnel carpiano, artrosis y artritis. </li>
+                                Las patologías en las que pueden estar indicadas sobre todo son musculotendinosas:</p>
+                    <ul>
+                        <li>Ciáticas, dolor cervical, epicondilitis (codo de tenista), lumbalgia, tortícolis, 
+                            síndrome de túnel carpiano, artrosis y artritis. </li>
+                    </ul>
                     <br><br>
-                    </p>
                 </div>  
 
             </div>

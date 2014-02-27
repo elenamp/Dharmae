@@ -1,5 +1,5 @@
 <?php require_once("funciones/headerAndFooter.php");?>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>Error</title>
         <meta charset="UTF-8">
