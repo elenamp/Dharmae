@@ -32,14 +32,12 @@ function cabecera(){
     </div>
 	<?php
 }
-
 /******PIE DE PÁGINA DE LA PÁGINA WEB***********/
 function pieDePagina(){
 	?>
 	<p> © 2014 DAM Studios Copyright. All Rights Reserved.</p>
-        
-
 <?php }
+
 function pieDePaginaInicio(){
 	pieDePagina();
 	?>
