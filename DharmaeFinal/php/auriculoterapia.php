@@ -1,6 +1,6 @@
 <?php require_once("funciones/headerAndFooter.php");
 require_once("funciones/headTerapias.php");?>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <?php headTerapia("Auriculoterapia");?>
     </head>
@@ -12,7 +12,7 @@ require_once("funciones/headTerapias.php");?>
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/Terapias/Auriculoterapia/auriculoterapialogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/Auriculoterapia/auriculoterapialogo.png" alt="Auriculoterapia Logo"/>             
                 <div id="parrafo1" >
                     <p>
                         Consiste en estimular los puntos reflejos que hay en la oreja, 
@@ -25,15 +25,15 @@ require_once("funciones/headTerapias.php");?>
                         la ansiedad que producen determinadas situaciones como regímenes alimenticios, 
                         abandono del tabaco o situaciones de stress…
                         <br><br>
-                        La estimulación se puedes realizar de varias formas: 
-                    <li>Masajeando los puntos </li>
-                    <li>Agujas </li>
-                    <li>Semillas </li>
-                    <li>Imanes </li>
+                        La estimulación se puedes realizar de varias formas: </p>
+                    <ul>
+                        <li>Masajeando los puntos </li>
+                        <li>Agujas </li>
+                        <li>Semillas </li>
+                        <li>Imanes </li>
+                    </ul>
                     <br><br>
-
-
-                    </p>
+   
                 </div>  
 
             </div>

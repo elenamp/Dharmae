@@ -1,6 +1,6 @@
 <?php require_once("funciones/headerAndFooter.php");
 require_once("funciones/headTerapias.php");?>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <?php headTerapia("Acupuntura Emocional");?>
     </head>
@@ -12,20 +12,21 @@ require_once("funciones/headTerapias.php");?>
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/Terapias/AcupunturaEmocional/acupunturaemocionallogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/AcupunturaEmocional/acupunturaemocionallogo.png" alt="Logo Acupuntura"/>             
                 <div id="parrafo1" >
                     <p>
                         Todas las dolencias que sufrimos tienen relación directa con los <strong>7 sentimientos</strong>, 
                         distintas emociones que condicionan nuestro  estado de salud y que actúan de manera 
-                        negativa en nosotros. 
-                        
-                    <li>Depresiones</li>
-                    <li>Ansiedad</li>
-                    <li>Estrés</li>
-                    <li>Negatividad </li>
-                    <li>Estados apáticos </li>
-                    <br><br>
-                    Cambiar estos estados que tanto nos afectan y 
+                        negativa en nosotros. </p>
+                    <ul>    
+                        <li>Depresiones</li>
+                        <li>Ansiedad</li>
+                        <li>Estrés</li>
+                        <li>Negatividad </li>
+                        <li>Estados apáticos </li>
+                    </ul>
+                    
+                    <p>Cambiar estos estados que tanto nos afectan y 
                     que tan difícil nos hacen la vida diaria, 
                     es muy  fácil con la acupuntura emocional.
                     <br><br>

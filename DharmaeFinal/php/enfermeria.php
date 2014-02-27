@@ -1,6 +1,6 @@
 <?php require_once("funciones/headerAndFooter.php");
 require_once("funciones/headTerapias.php");?>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <?php headTerapia("Enfermería");?>
     </head>
@@ -15,18 +15,19 @@ require_once("funciones/headTerapias.php");?>
                 <img id="logoterapia" src="../img/Terapias/Enfermeria/enfermerialogo.png"/>             
                 <div id="parrafo1" >
                     <p>
-                        Ofrecemos servicio de Enfermería a domicilio con amplia disponibilidad horaria. 
-                    <li>	Aplicación de inyectables.
-<li>Curas de heridas quirúrgicas.
-<li>	Curas de úlceras varicosas, arteriales, venosas, úlceras por presión…</li>
-<li>	Atención a pacientes encamados.</li>
-<li>	Atención y cuidados a pacientes paliativos y en estado terminal.</li>
-<li>Control rutinario de enfermos crónicos (diabetes, hipertensión arterial…).</li>
-
+                        Ofrecemos servicio de Enfermería a domicilio con amplia disponibilidad horaria. </p>
+                    <ul>
+                        <li> Aplicación de inyectables. </li>
+                        <li> Curas de heridas quirúrgicas </li>
+                        <li> Curas de úlceras varicosas, arteriales, venosas, úlceras por presión…</li>
+                        <li> Atención a pacientes encamados.</li>
+                        <li> Atención y cuidados a pacientes paliativos y en estado terminal.</li>
+                        <li> Control rutinario de enfermos crónicos (diabetes, hipertensión arterial…).</li>
+                    </ul>
                     <br><br>
 
 
-                    </p>
+                    
                 </div>  
 
             </div>

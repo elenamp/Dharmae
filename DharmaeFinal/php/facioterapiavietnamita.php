@@ -1,6 +1,6 @@
 <?php require_once("funciones/headerAndFooter.php");
 require_once("funciones/headTerapias.php");?>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <?php headTerapia("Drenaje Linfático");?>
     </head>
@@ -12,7 +12,7 @@ require_once("funciones/headTerapias.php");?>
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamitalogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/FacioterapiaVietnamita/facioterapiavietnamitalogo.png" alt="Facioterapia Vietnamita Logo"/>             
                 <div id="parrafo1">
                     <p>
                         Creada hace 30 años, consiste en estimular, sin agujas,

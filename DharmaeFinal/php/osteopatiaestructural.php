@@ -1,6 +1,6 @@
 <?php require_once("funciones/headerAndFooter.php");
 require_once("funciones/headTerapias.php");?>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <?php headTerapia("Osteopatía Estructural");?>
     </head>
@@ -12,7 +12,7 @@ require_once("funciones/headTerapias.php");?>
         <div id="cuerpo"> 
 
             <div id="descripcionterapia">
-                <img id="logoterapia" src="../img/Terapias/Osteopatia/oteopatiaestructurallogo.png"/>             
+                <img id="logoterapia" src="../img/Terapias/Osteopatia/oteopatiaestructurallogo.png" alt="Logo Osteopatia Estructural"/>             
                 <div id="parrafo1">
                     <p>La osteopatía es una terapia, ciencia y arte de curación, 
                         o método terapéutico manual que busca la restauración de la movilidad 
@@ -46,28 +46,34 @@ require_once("funciones/headTerapias.php");?>
                         <br><br>
                         Por eso, los osteópatas siempre trabajamos la columna, 
                         porque generalmente suele ser el centro de casi todos los problemas del resto del cuerpo. 
-                    <u>Tenemos que tener en cuenta que donde duele, nunca está el origen de ese dolor.</u>
-                    <br><br>
+                    <u>Tenemos que tener en cuenta que donde duele, nunca está el origen de ese dolor.</u> </p>
+                    <br>
                     <strong>Del miembro superior trabajamos:</strong>
-                    <li>Cervicalgias, cefaleas tensionales, contracturas musculares a nivel de trapecio, tortícolis…</li>
-                    <li>Epicondilitis, epitrocleitis, hombro congelado o capsulitis adhesiva, 
-                        pérdidas de movilidad en el hombro, rizartrosis del primer dedo…</li>
+                    <ul>
+                        <li>Cervicalgias, cefaleas tensionales, contracturas musculares a nivel de trapecio, tortícolis…</li>
+                        <li>Epicondilitis, epitrocleitis, hombro congelado o capsulitis adhesiva, 
+                            pérdidas de movilidad en el hombro, rizartrosis del primer dedo…</li>
+                    </ul>
                     <br>
                     <strong>Del tronco trabajamos:</strong>
-                    <li>Dolores de espalda a cualquier nivel.</li>
-                    <li>Problemas internos como taquicardias y otros derivados de vísceras.</li>
-                    <li>Dolores en costillas después de accidentes, esternón.</li>
-                    <li>Tratamiento paliativo muy eficaz en hernias de hiato.</li>
+                    <ul>
+                        <li>Dolores de espalda a cualquier nivel.</li>
+                        <li>Problemas internos como taquicardias y otros derivados de vísceras.</li>
+                        <li>Dolores en costillas después de accidentes, esternón.</li>
+                        <li>Tratamiento paliativo muy eficaz en hernias de hiato.</li>
+                    </ul>
                     <br>
                     <strong>Del miembro inferior trabajamos:</strong>
-                    <li>Ciáticas, lumbociáticas y pseudociáticas.</li>
-                    <li>Problemas de rodilla, liberación en meniscopatías, rótulas caídas…</li>
-                    <li>Problemas musculares en cuádriceps, isquitibiales, gemelos y sóleo…</li>
-                    <li>Dolores en cadera, pierna corta (muchas veces es un problema de que la pelvis no está nivelada).</li>
-                    <li>Esguince interno y externo de tobillo, juanetes…</li>
+                    <ul>
+                        <li>Ciáticas, lumbociáticas y pseudociáticas.</li>
+                        <li>Problemas de rodilla, liberación en meniscopatías, rótulas caídas…</li>
+                        <li>Problemas musculares en cuádriceps, isquitibiales, gemelos y sóleo…</li>
+                        <li>Dolores en cadera, pierna corta (muchas veces es un problema de que la pelvis no está nivelada).</li>
+                        <li>Esguince interno y externo de tobillo, juanetes…</li>
+                    </ul>
                     <br>
 
-                    </p>
+                    
                     <HR align="CENTER" size="2" width="95%" color="Black" noshade>
                     <p> 
                     <h3><strong>OSTEOPATÍA PEDIÁTRICA:</strong></h3>                    
